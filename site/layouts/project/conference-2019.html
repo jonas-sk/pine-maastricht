@@ -1,0 +1,37 @@
+{{ define "main" }}
+
+{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Description) }}
+
+{{ partial "text-and-image" (dict "heading" .Params.intro.heading "text" .Params.intro.text "imageUrl" .Params.intro.imageUrl "buttonText" .Params.intro.button "buttonLink" .Params.intro.link) }}
+
+{{ with .Params.details }}
+  <div class="mw6 center ph3 pv4">
+    <div class="cms mw6">
+      {{ . }}
+    </div>
+  </div>
+{{ end }}
+
+{{ partial "two-tiles" .Params.tracks }}
+
+<div class="mw7 center ph3 pv4">
+
+  {{ range $index, $element := .Params.experts }}
+    {{ if modBool $index 2 }}
+      {{ partial "media-block" $element }}
+    {{ else }}
+      {{ partial "media-block-reverse" $element }}
+    {{ end }}
+  {{ end }}
+
+</div>
+
+
+<div class="mw6 center ph3 pv4">
+  <h1 class="f2 lh-title b mb3">{{.Params.schedule.heading}}</h1>
+  <div class="cms mw6">
+    {{ .Params.schedule.content }}
+  </div>
+</div>
+
+{{ end }}

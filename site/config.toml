@@ -1,8 +1,7 @@
 baseurl = "/"
 languageCode = "en-us"
 title = "PINE Maastricht"
+sectionPagesMenu = "main" #Sections are automatically menu items
 
 [permalinks]
   work = "/:slug/"
-
-sectionPagesMenu = "main" #Sections are automatically menu items
