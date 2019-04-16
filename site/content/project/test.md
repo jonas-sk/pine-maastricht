@@ -5,6 +5,7 @@ lastmod: 2019-04-16T13:08:30.463Z
 description: >-
   Conference on the "The Purpose of the Economy" happening form to  in
   Maastricht
+image: /img/about-direct-sourcing.jpg
 isproject: 'true'
 ---
 wwww
