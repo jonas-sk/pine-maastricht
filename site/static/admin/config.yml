@@ -20,6 +20,18 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Introduction", name: "description", widget: "text"}
       - {label: "Image", name: "image", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
+  - name: "project"
+    label: "Project"
+    folder: "site/content/project"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Published", name: "publishdate", widget: "datetime"}
+      - {label: "Last Updated", name: "lastmod", widget: "datetime"}
+      - {label: "Introduction", name: "description", widget: "text"}
+      - {label: "Image", name: "image", widget: "image", required: false}
+      - {label: "Body", name: "body", widget: "markdown"}
   - name: "pages"
     label: "Pages"
     files:
@@ -45,6 +57,13 @@ collections: # A list of collections the CMS should be able to edit
       - file: "site/content/post/_index.md"
         label: "List of Posts"
         name: "posts"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Image, name: image, widget: image}
+          - {label: Description, name: subtitle, widget: string}
+      - file: "site/content/project/_index.md"
+        label: "List of Projects"
+        name: "projects"
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Image, name: image, widget: image}

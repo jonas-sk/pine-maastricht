@@ -4,3 +4,5 @@ title = "PINE Maastricht"
 
 [permalinks]
   work = "/:slug/"
+
+sectionPagesMenu = "main" #Sections are automatically menu items
