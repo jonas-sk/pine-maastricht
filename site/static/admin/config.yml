@@ -94,6 +94,7 @@ collections: # A list of collections the CMS should be able to edit
         name: "conference-2019"
         fields:
           - {label: Title, name: title, widget: string}
+          - {label: Layout, name: layout, widget: hidden, defualt: conference-2019}
           - {label: Image, name: image, widget: image}
           - {label: Description, name: description, widget: string}
           - label: Intro
