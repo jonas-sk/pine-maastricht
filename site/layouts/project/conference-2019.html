@@ -7,7 +7,7 @@
 {{ with .Params.details }}
   <div class="mw6 center ph3 pv4">
     <div class="cms mw6">
-      {{ . }}
+      {{ . | markdownify}}
     </div>
   </div>
 {{ end }}
@@ -30,7 +30,7 @@
 <div class="mw6 center ph3 pv4">
   <h1 class="f2 lh-title b mb3">{{.Params.schedule.heading}}</h1>
   <div class="cms mw6">
-    {{ .Params.schedule.content }}
+    {{ .Params.schedule.content | markdownify }}
   </div>
 </div>
 
