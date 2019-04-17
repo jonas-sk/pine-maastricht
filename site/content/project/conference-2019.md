@@ -1,5 +1,6 @@
 ---
 title: PINE Conference 2019
+layout: conference-2019
 publishdate: 2019-04-17T16:05:25.853Z
 lastmod: 2019-04-17T16:05:28.823Z
 image: /img/pine-team-1.jpg
@@ -21,7 +22,7 @@ details: >-
   pluralist economics education at university-level. Given that the University
   College Maastricht is located right at the centre of Europe, it provides an
   ideal location for bringing together motivated students from across Europe who
-  are passionate about pluralist economics education. 
+  are passionate about pluralist economics education.
 
 
   In the past years, our conferences have been successful in all imaginable
@@ -39,7 +40,7 @@ details: >-
   including a ‘Market of Inspiration’, a ‘Playground of Ideas’, multiple
   interaction possibilities, art installations, performances of the faculty’s
   circus committee, live music and of course an assortment of vegan and
-  vegetarian foods and drinks. 
+  vegetarian foods and drinks.
 
 
   This year’s Pluralism in Economics Conference revolves around the question
@@ -51,7 +52,7 @@ details: >-
   relate to each other, it does not take into account the more fundamental
   question which social ends ought to constitute the basis of an economy.
   Accordingly, we want to raise the fundamental question: Which purpose should
-  an economy in today’s societies serve? 
+  an economy in today’s societies serve?
 
 
   In order to find answers to this question, participants will be granted the
@@ -78,7 +79,7 @@ details: >-
   financial crises and citizen’s happiness as well as income- and wealth
   disparities within today’s societies. Thus, our aim is to connect theory with
   praxis, experts with motivated students, work with leisure time and to act as
-  a bridge among different disciplinary backgrounds. 
+  a bridge among different disciplinary backgrounds.
 
 
   In this spirit, the purpose of this year’s Pluralism in Economics Conference
@@ -273,4 +274,3 @@ schedule:
     more (tba)
   heading: Preliminary Program Outline
 ---
-
