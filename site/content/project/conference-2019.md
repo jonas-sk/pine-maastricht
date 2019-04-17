@@ -1,5 +1,7 @@
 ---
 title: PINE Conference 2019
+publishdate: 2019-04-17T16:05:25.853Z
+lastmod: 2019-04-17T16:05:28.823Z
 image: /img/pine-team-1.jpg
 description: >-
   The Purpose of the Economy - A Pluralism In Economics Conference happening 14
@@ -9,7 +11,7 @@ intro:
   heading: Overview
   imageUrl: /img/pine-conference-poster.jpg
   link: '#'
-  text: SUMMARY TEXT GOES HERE
+  text: <<SUMMARY TEXT GOES HERE>>
 details: >-
   The Pluralism in Economics Conference is an annual two-day event organised by
   the student initiative Pluralism in Economics (PINE) at the University College
