@@ -1,5 +1,6 @@
 ---
 title: PINE Conference 2019
+layout: conference-2019
 image: /img/about-direct-sourcing.jpg
 description: The Purpose of the Economy - A PINE Conference happening 14 June - 15 June
 intro:
@@ -257,4 +258,3 @@ schedule:
     more (tba)
   heading: Preliminary Program Outline
 ---
-

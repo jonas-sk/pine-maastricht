@@ -117,9 +117,9 @@ collections: # A list of collections the CMS should be able to edit
                 name: tiles
                 widget: list
                 fields:
-                  - {label: Image, name: image, widget: image}
                   - {label: Heading, name: heading, widget: string}
                   - {label: Text, name: text, widget: text}
+                  - {label: Image, name: image, widget: image}
           - label: Experts
             name: experts
             widget: list
