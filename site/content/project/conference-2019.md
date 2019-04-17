@@ -1,78 +1,89 @@
 ---
 title: PINE Conference 2019
-layout: conference-2019
-image: /img/about-direct-sourcing.jpg
+image: /img/pine-team-1.jpg
 description: The Purpose of the Economy - A PINE Conference happening 14 June - 15 June
 intro:
   button: Register Now!
   heading: Overview
   imageUrl: /img/pine-conference-poster.jpg
   link: '#'
-  text: >-
-    The Pluralism in Economics Conference is an annual two-day event organised
-    by the student initiative Pluralism in Economics (PINE) at the University
-    College Maastricht (UCM). With its conferences, PINE wants to offer a
-    platform for discussing the role of pluralism in economics to understand
-    complex socio-economic issues in today’s societies as well as the broader
-    value of pluralist economics education at university-level. Given that the
-    University College Maastricht is located right at the centre of Europe, it
-    provides an ideal location for bringing together motivated students from
-    across Europe who are passionate about pluralist economics education. In the
-    past years, our conferences have been successful in all imaginable respects
-    and received positive feedback from participants, speakers, track and
-    workshop facilitators, the university, partner organisations and the
-    PINE-team itself. We hosted around a hundred enthusiastic and interested
-    people, who joined us from all around the Netherlands and its surrounding
-    countries to converse under headings such as ‘Capitalism & Democracy’ or
-    ‘Capitalism & Inequality’. The setting, in this as in all previous years, is
-    the building of University College Maastricht, a refurbished old monastery
-    full of character and allure. As we understand it, the conference’s
-    atmosphere is just as important as its content. Accordingly, in order to
-    stimulate a relaxed and fruitful sense of vision and constructive debate, we
-    supplement the scene with fringe events and decorations. Imagine a bright
-    and colourful arrangement including a ‘Market of Inspiration’, a ‘Playground
-    of Ideas’, multiple interaction possibilities, art installations,
-    performances of the faculty’s circus committee, live music and of course an
-    assortment of vegan and vegetarian foods and drinks. This year’s Pluralism
-    in Economics Conference revolves around the question which purpose the
-    economy serves and which purpose an economy should ideally serve in today’s
-    societies. Traditionally, neoclassical theory defines the discipline of
-    economics as the study of human behaviour under conditions of scarce
-    resources with alternative uses to reach desired ends. While this definition
-    sketches a broad frame of how human actors and material goods relate to each
-    other, it does not take into account the more fundamental question which
-    social ends ought to constitute the basis of an economy. Accordingly, we
-    want to raise the fundamental question: Which purpose should an economy in
-    today’s societies serve? In order to find answers to this question,
-    participants will be granted the opportunity to choose between five
-    different tracks ranging from the relationship between the state and economy
-    to the role of democracy, distributive justice, growth and happiness within
-    today’s economies. More specifically, guiding questions in defining the
-    purpose of the economy will be: What could be the role of the state in a
-    modern economy? Market vs. Democracy: who should decide on what? Which value
-    does our economy create and how is it distributed? Does economic growth
-    serve the purpose of the economy? And which role does the happiness of
-    citizens play in conceptualising the purpose of the economy?Answering these
-    questions demands interdisciplinary investigation which the PINE Conference
-    2019 will contribute to. Aligning with the idea of Pluralism in Economics,
-    we will offer a platform for discussing the purpose that economies should
-    serve in today’s societies from the perspectives of various disciplines,
-    among them different branches of economic thought, politics, sociology and
-    political philosophy. Together with experts and motivated students from
-    various backgrounds, we will conceptualise the purpose of modern economies
-    on theoretical grounds and connect our findings to contemporary case studies
-    such as growing populist tendencies, political apathy, the role of financial
-    crises and citizen’s happiness as well as income- and wealth disparities
-    within today’s societies. Thus, our aim is to connect theory with praxis,
-    experts with motivated students, work with leisure time and to act as a
-    bridge among different disciplinary backgrounds. In this spirit, the purpose
-    of this year’s Pluralism in Economics Conference is to sketch new narratives
-    and imaginaries for conceptualising an economic system that incorporates
-    variables which are deemed to serve the purpose of an economy and which
-    transcend the limited definition of economics in neoclassical theory. Do you
-    want to be part of this endeavour? Then join the Pluralism in Economics
-    Conference “The Purpose of the Economy” in summer 2019 at the University
-    College Maastricht in the Netherlands!
+  text: SUMMARY TEXT GOES HERE
+details: >-
+  The Pluralism in Economics Conference is an annual two-day event organised by
+  the student initiative Pluralism in Economics (PINE) at the University College
+  Maastricht (UCM). With its conferences, PINE wants to offer a platform for
+  discussing the role of pluralism in economics to understand complex
+  socio-economic issues in today’s societies as well as the broader value of
+  pluralist economics education at university-level. Given that the University
+  College Maastricht is located right at the centre of Europe, it provides an
+  ideal location for bringing together motivated students from across Europe who
+  are passionate about pluralist economics education. 
+
+
+  In the past years, our conferences have been successful in all imaginable
+  respects and received positive feedback from participants, speakers, track and
+  workshop facilitators, the university, partner organisations and the PINE-team
+  itself. We hosted around a hundred enthusiastic and interested people, who
+  joined us from all around the Netherlands and its surrounding countries to
+  converse under headings such as ‘Capitalism & Democracy’ or ‘Capitalism &
+  Inequality’. The setting, in this as in all previous years, is the building of
+  University College Maastricht, a refurbished old monastery full of character
+  and allure. As we understand it, the conference’s atmosphere is just as
+  important as its content. Accordingly, in order to stimulate a relaxed and
+  fruitful sense of vision and constructive debate, we supplement the scene with
+  fringe events and decorations. Imagine a bright and colourful arrangement
+  including a ‘Market of Inspiration’, a ‘Playground of Ideas’, multiple
+  interaction possibilities, art installations, performances of the faculty’s
+  circus committee, live music and of course an assortment of vegan and
+  vegetarian foods and drinks. 
+
+
+  This year’s Pluralism in Economics Conference revolves around the question
+  which purpose the economy serves and which purpose an economy should ideally
+  serve in today’s societies. Traditionally, neoclassical theory defines the
+  discipline of economics as the study of human behaviour under conditions of
+  scarce resources with alternative uses to reach desired ends. While this
+  definition sketches a broad frame of how human actors and material goods
+  relate to each other, it does not take into account the more fundamental
+  question which social ends ought to constitute the basis of an economy.
+  Accordingly, we want to raise the fundamental question: Which purpose should
+  an economy in today’s societies serve? 
+
+
+  In order to find answers to this question, participants will be granted the
+  opportunity to choose between five different tracks ranging from the
+  relationship between the state and economy to the role of democracy,
+  distributive justice, growth and happiness within today’s economies. More
+  specifically, guiding questions in defining the purpose of the economy will
+  be: What could be the role of the state in a modern economy? Market vs.
+  Democracy: who should decide on what? Which value does our economy create and
+  how is it distributed? Does economic growth serve the purpose of the economy?
+  And which role does the happiness of citizens play in conceptualising the
+  purpose of the economy?
+
+
+  Answering these questions demands interdisciplinary investigation which the
+  PINE Conference 2019 will contribute to. Aligning with the idea of Pluralism
+  in Economics, we will offer a platform for discussing the purpose that
+  economies should serve in today’s societies from the perspectives of various
+  disciplines, among them different branches of economic thought, politics,
+  sociology and political philosophy. Together with experts and motivated
+  students from various backgrounds, we will conceptualise the purpose of modern
+  economies on theoretical grounds and connect our findings to contemporary case
+  studies such as growing populist tendencies, political apathy, the role of
+  financial crises and citizen’s happiness as well as income- and wealth
+  disparities within today’s societies. Thus, our aim is to connect theory with
+  praxis, experts with motivated students, work with leisure time and to act as
+  a bridge among different disciplinary backgrounds. 
+
+
+  In this spirit, the purpose of this year’s Pluralism in Economics Conference
+  is to sketch new narratives and imaginaries for conceptualising an economic
+  system that incorporates variables which are deemed to serve the purpose of an
+  economy and which transcend the limited definition of economics in
+  neoclassical theory. Do you want to be part of this endeavour? Then join the
+  Pluralism in Economics Conference “The Purpose of the Economy” in summer 2019
+  at the University College Maastricht in the Netherlands!
 tracks:
   description: 'Participants will be able to follow one of the below tracks. '
   heading: Tracks
@@ -136,7 +147,7 @@ tracks:
       text: tba. The track facilitator will be Dr. Martijn Burger
 experts:
   - heading: Dr. Dirk Ehnts
-    imageUrl: /img/dirk-ehnts.jpeg
+    imageUrl: /img/dirk-ehnts-sq.jpeg
     text: >-
       Dr. Dirk Ehnts is an economist, based in Berlin, married with two
       children. Speaker of the board of Pufendorf-Gesellschaft e. V., organizer
@@ -157,7 +168,7 @@ experts:
       at the University of Groningen. I also teach philosophy of the social
       sciences at University College Groningen.
   - heading: Prof. Teun Dekker
-    imageUrl: /img/teun-dekker.jpg
+    imageUrl: /img/teun-dekker-sq.jpg
     text: >-
       Teun J Dekker is Professor of Liberal Arts and Sciences Education at
       University College Maastricht, where he teaches courses on the
@@ -165,7 +176,7 @@ experts:
       of Political Thought and Distributive Justice in Contemporary Political
       Philosophy.
   - heading: Birte Strunck
-    imageUrl: /img/birte-strunck.jpg
+    imageUrl: /img/birte-strunck-sq.jpg
     text: >-
       Birte Strunk studied International Relations, Political Philosophy and
       Sustainability in Maastricht and London. She then spent a year working as
@@ -177,7 +188,7 @@ experts:
       economies, she researches issues of socio-economic transformation,
       especially in relation to concepts of work and the welfare state.
   - heading: Dr. Martijn Burger
-    imageUrl: /img/martijn-burger.png
+    imageUrl: /img/martijn-burger-sq.png
     text: >-
       Dr. Martijn Burger is Academic Director of the Erasmus Happiness Economics
       Research Organization in Rotterdam. Most of his current research focuses
@@ -189,7 +200,7 @@ experts:
       Economic and Social Geography and International Journal of Community
       Wellbeing.
   - heading: Patrick Schreiner
-    imageUrl: /img/patrick-schreiner.jpg
+    imageUrl: /img/patrick-schreiner-sq.jpg
     text: >-
       Patrick Schreiner is Unionist and author of the books ‘Unterwerfung als
       Freiheit: Leben im Neoliberalismus’(“Submission as freedom: life in
@@ -197,7 +208,7 @@ experts:
       auf das Leben im Neoliberalismus’ (“Why do people take part in it:
       eighteen perspectives on life in neoliberalism”)
   - heading: 'Friederike Spiecker '
-    imageUrl: /img/friederike-spiecker.jpg
+    imageUrl: /img/friederike-spiecker-sq.jpg
     text: >-
       Friederike Spiecker graduated in economics from Konstanz University in
       1991. In 1992, she joined a graduate college in Göttingen on a grant from
@@ -258,3 +269,4 @@ schedule:
     more (tba)
   heading: Preliminary Program Outline
 ---
+
