@@ -1,6 +1,7 @@
 ---
 title: PINE Conference 2019
 layout: conference-2019
+menu: "main"
 publishdate: 2019-04-17T16:05:25.853Z
 lastmod: 2019-04-17T16:05:28.823Z
 image: /img/pine-team-1.jpg
@@ -274,4 +275,3 @@ schedule:
     more (tba)
   heading: Preliminary Program Outline
 ---
-

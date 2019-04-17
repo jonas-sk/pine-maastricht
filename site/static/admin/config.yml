@@ -16,12 +16,12 @@ collections: # A list of collections the CMS should be able to edit
     slug: "{{slug}}-{{day}}-{{month}}-{{year}}"
     filter: {field: "ispost", value: "true"}
     fields: # The fields each document in this collection have
+      - {label: "Is Post?", name: "ispost", widget: "hidden", default: "true"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Introduction", name: "description", widget: "text"}
       - {label: "Image", name: "image", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
-      - {label: "Is Post?", name: "ispost", widget: "hidden", default: "true"}
   - name: "project"
     label: "Projects"
     folder: "site/content/project"
@@ -29,13 +29,13 @@ collections: # A list of collections the CMS should be able to edit
     slug: "{{slug}}"
     filter: {field: "isproject", value: "true"}
     fields:
+      - {label: "Is Project?", name: "isproject", widget: "hidden", default: "true"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Published", name: "publishdate", widget: "datetime"}
       - {label: "Last Updated", name: "lastmod", widget: "datetime"}
       - {label: "Introduction", name: "description", widget: "text"}
       - {label: "Image", name: "image", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
-      - {label: "Is Project?", name: "isproject", widget: "hidden", default: "true"}
   - name: "pages"
     label: "Pages"
     files:
@@ -93,8 +93,9 @@ collections: # A list of collections the CMS should be able to edit
         label: "PINE Conference 2019"
         name: "conference-2019"
         fields:
-          - {label: Title, name: title, widget: string}
           - {label: "Layout", name: "layout", widget: "hidden", default: "conference-2019"}
+          - {label: "Menu", name: "menu", widget: "hidden", default: "main"}
+          - {label: Title, name: title, widget: string}
           - {label: "Published", name: "publishdate", widget: "datetime"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime"}
           - {label: Image, name: image, widget: image}
