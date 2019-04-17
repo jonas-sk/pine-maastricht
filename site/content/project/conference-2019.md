@@ -12,7 +12,7 @@ intro:
   heading: Overview
   imageUrl: /img/pine-conference-poster.jpg
   link: '#'
-  text: <<<SUMMARY TEXT GOES HERE>>>
+  text: <<SUMMARY TEXT GOES HERE>>
 details: >-
   The Pluralism in Economics Conference is an annual two-day event organised by
   the student initiative Pluralism in Economics (PINE) at the University College
@@ -274,3 +274,4 @@ schedule:
     more (tba)
   heading: Preliminary Program Outline
 ---
+
