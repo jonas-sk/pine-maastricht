@@ -221,7 +221,7 @@ experts:
       parties, trade unions and other organisations.
 schedule:
   content: >-
-    # Friday
+    ## Friday
 
 
     **19:00 - 19:30** Kick-off by PINE Team and Prof. Dr. Teun Dekker
@@ -234,7 +234,7 @@ schedule:
     Get-together, informal discussions and drinks
 
 
-    # Saturday
+    ## Saturday
 
 
     **09:30 – 10:00** Philosophical Consideration: What do we do Economics for?
