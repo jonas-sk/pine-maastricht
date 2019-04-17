@@ -1,7 +1,9 @@
 ---
 title: PINE Conference 2019
 image: /img/pine-team-1.jpg
-description: The Purpose of the Economy - A PINE Conference happening 14 June - 15 June
+description: >-
+  The Purpose of the Economy - A Pluralism In Economics Conference happening 14
+  June - 15 June
 intro:
   button: Register Now!
   heading: Overview
