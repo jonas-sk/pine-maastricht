@@ -91,9 +91,9 @@ collections: # A list of collections the CMS should be able to edit
                 widget: list
                 fields:
                   - {label: Heading, name: heading, widget: string}
-                  - {label: Image, name: imageUrl, widget: image}
                   - {label: Description, name: description, widget: string}
-                  - {label: Items, name: items, widget: list}
+                  - {label: Items, name: items, widget: list, required: false}
+                  - {label: Image, name: imageUrl, widget: image, required: false}
           - label: "Arguments for Pluralism"
             name: arguments
             widget: object
