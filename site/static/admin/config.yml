@@ -46,12 +46,13 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Title, name: title, widget: string}
           - {label: Subtitle, name: subtitle, widget: string}
           - {label: Image, name: image, widget: image}
-          - {label: "Blurb", name: blurb, widget: object, fields: [
-              {label: "Heading", name: "heading", widget: string},
-              {label: "Text", name: "text", widget: "text"}]}
-          - {label: "Intro", name: intro, widget: object, fields: [
-              {label: "Heading", name: "heading", widget: string},
-              {label: "Text", name: "text", widget: "text"}]}
+          - label: "Intro"
+            name: intro
+            widget: object
+            fields:
+              - {label: "Heading", name: "heading", widget: string}
+              - {label: "Text", name: "text", widget: "text"}
+              - {label: "Image", name: "image", widget: "image"}
           - {label: "Products", name: products, widget: list, fields: [
               {label: "Image", name: "image", widget: "image"},
               {label: "Text", name: "text", widget: "text"}]}
@@ -64,14 +65,68 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Image, name: image, widget: image}
-          - {label: Description, name: subtitle, widget: string}
+          - {label: Description, name: description, widget: string}
       - file: "site/content/project/_index.md"
         label: "List of Projects"
         name: "projects"
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Image, name: image, widget: image}
-          - {label: Description, name: subtitle, widget: string}
+          - {label: Description, name: description, widget: string}
+      - file: "site/content/about/_index.md"
+        label: "About Page"
+        name: "about"
+        fields:
+          - {label: "Title", name: title, widget: string}
+          - {label: "Image", name: image, widget: image}
+          - {label: "Description", name: description, widget: string}
+          - label: "Introduction"
+            name: intro
+            widget: object
+            fields:
+              - {label: "Heading", name: "heading", widget: string}
+              - {label: "Text", name: "text", widget: text}
+          - label: "PINE Work"
+            name: work
+            widget: object,
+            fields:
+              - {label: Heading, name: heading, widget: string}
+              - {label: Description, name: description, widget: string}
+              - label: Pillars
+                name: columns
+                widget: list
+                fields:
+                  - {label: Heading, name: heading, widget: string}
+                  - {label: Image, name: imageUrl, widget: image}
+                  - {label: Description, name: description, widget: string}
+                -   {label: Items, name: items, widget: list}
+          - label: "Arguments for Pluralism"
+            name: arguments
+            widget: object
+            fields:
+              - {label: Heading, name: heading, widget: string}
+              - {label: Description, name: description, widget: text}
+              - label: Tiles
+                name: tiles
+                widget: list
+                fields:
+                  - {label: Heading, name: heading, widget: string}
+                  - {label: Text, name: text, widget: text}
+                  - {label: Image, name: image, widget: image, required: false}
+          - label: "Team"
+            name: team
+            widget: object
+            fields:
+              - {label: Heading, name: heading, widget: string}
+              - {label: Description, name: description, widget: text}
+              - {label: "Team Image", name: image, widget: image}
+          - {label: "Details", name: details, widget: markdown, required: false}
+          - label: Quotes
+            name: quotes
+            widget: list
+            fields:
+              - {label: Quote, name: quote, widget: string}
+              - {label: Author, name: author, widget: string}
       - file: "site/content/contact/_index.md"
         label: "Contact Page"
         name: "contact"
@@ -122,7 +177,7 @@ collections: # A list of collections the CMS should be able to edit
                 fields:
                   - {label: Heading, name: heading, widget: string}
                   - {label: Text, name: text, widget: text}
-                  - {label: Image, name: image, widget: image}
+                  - {label: Image, name: image, widget: image, required: false}
           - label: Experts
             name: experts
             widget: list

@@ -1,0 +1,33 @@
+{{ define "main" }}
+
+{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle) }}
+
+{{ partial "short-text" .Params.intro}}
+
+{{ partial "table" .Params.work }}
+
+{{ partial "two-tiles" .Params.arguments }}
+
+{{ with .Params.team }}
+<div class="center bg-grey-1 pv4">
+  <h3 class="f3 b lh-title mb3 mw6 ph3">{{ .heading }}</h3>
+  <img src="{{ .image }}" alt="" class="db w-100">
+    <p class="mw6 ph3 mb3">{{ .description }}</p>
+</div>
+{{ end }}
+
+{{ with .Params.details }}
+  <div class="mw6 center ph3 pv4">
+    <div class="cms mw6">
+      {{ . | markdownify }}
+    </div>
+  </div>
+{{ end }}
+
+<div class="pb4">
+  {{ range .Params.quotes }}
+    {{ partial "blockquote" . }}
+  {{ end }}
+</div>
+
+{{ end }}
