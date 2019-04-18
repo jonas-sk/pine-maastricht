@@ -1,4 +1,5 @@
 ---
+linktitle: About
 title: About PINE
 image: /img/pine-team-3.jpg
 description: Who Are We and Why Care About Pluralism?
@@ -39,7 +40,7 @@ arguments:
     - heading: Liberal Arts
       text: >-
         Critical thinking is vital to Liberal Arts and there is an inherent link
-        between critical thinking and pluralism. 
+        between critical thinking and pluralism.
 team:
   description: >-
     Left: Laura, Cara, Jonas, Marla, Maxine, Max, Franca, Maurice, Hannah, Jonas
@@ -89,7 +90,7 @@ details: >-
   [here](http://www.isipe.net/open-letter/)!
 
 
-  ## Plurale Ökonomik 
+  ## Plurale Ökonomik
 
 
   Plurale Ökonomik is the German network for pluralism in economics. Their two
@@ -128,7 +129,7 @@ details: >-
   Check out their website [here](https://www.ineteconomics.org/)!
 
 
-  ## Levy Economics Institute 
+  ## Levy Economics Institute
 
 
   The Levy Economics Institute of Bard College, founded in 1986 through the
@@ -162,4 +163,3 @@ details: >-
   * Alumni of the [Hobart and William Smith
   Colleges](http://ntu.ac.uk/nbs/document_uploads/108980.pdf)
 ---
-
