@@ -2,7 +2,7 @@
 
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle) }}
 
-{{ partial "text-and-image" (dict "heading" .Params.intro.heading "text" .Params.intro.text "buttonText" "Learn more" "buttonLink" "/about") }}
+{{ partial "text-and-image" (dict "heading" .Params.intro.heading "text" .Params.intro.text "imageUrl" .Params.intro.image "buttonText" "Learn more" "buttonLink" "/about") }}
 
 {{ partial "latest" (dict "context" . "heading" "Latest Projects" "contentType" "project") }}
 
