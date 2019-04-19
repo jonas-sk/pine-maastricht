@@ -4,6 +4,6 @@ menu:
     weight: -80
 title: Latest Posts and News
 image: /img/maastricht-cityhall.jpg
-description: Find Our Latest Blog Posts Here
+description: Find the Latest Blog Posts Here
 ---
 
