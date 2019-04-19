@@ -6,8 +6,8 @@ publishdate: 2019-04-17T16:05:25.853Z
 lastmod: 2019-04-17T16:05:28.823Z
 image: /img/pine-team-1.jpg
 description: >-
-  The Purpose of the Economy - A Pluralism In Economics Conference happening 14
-  June - 15 June
+  The Purpose of the Economy - A Pluralism In Economics Conference taking place
+  14 June - 15 June
 intro:
   button: Register Now!
   heading: Overview
