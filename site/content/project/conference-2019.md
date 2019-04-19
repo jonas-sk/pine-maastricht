@@ -20,7 +20,7 @@ intro:
     activity? No? Well, that’s what we will do at this year’s PINE Conference
     ‘The Purpose of the Economy’. Let’s call into question the very basis of the
     economic conduct: What is its purpose, what do we do it for? Should we amend
-    the purpose we are currently following? 
+    the purpose we are currently following?
 
 
     At our conference, you will get the chance to come together with fellow
@@ -169,79 +169,82 @@ tracks:
       image: /img/blog-flavor_wheel.jpg
       text: tba. The track facilitator will be Dr. Martijn Burger
 experts:
-  - heading: Dr. Dirk Ehnts
-    imageUrl: /img/dirk-ehnts-sq.jpeg
-    text: >-
-      Dr. Dirk Ehnts is an economist, based in Berlin, married with two
-      children. Speaker of the board of Pufendorf-Gesellschaft e. V., organizer
-      of the first European MMT conference and author of "Modern Monetary Theory
-      and European Macroeconomics" and the forthcoming textbook "Money and
-      Banking: New Foundations of Macroeconomics
-  - heading: Melissa Vergara Fernández
-    imageUrl: /img/melissa-vergara-fernandez.jpg
-    text: >-
-      I am a philosopher of science, specialised in economics. I aspire to
-      establish dialogues between philosophers and economists that can
-      contribute to the reliability of economics as a science. I see economics
-      as a social science. This implies that it contributes to social scientific
-      knowledge but offers a single and limited perspective to this knowledge. I
-      got my PhD at the Erasmus Institute for Philosophy and Economics, at
-      Erasmus University Rotterdam. I am currently a Lecturer at the Faculty of
-      Economics and Business, Department of Economics, Econometrics, and Finance
-      at the University of Groningen. I also teach philosophy of the social
-      sciences at University College Groningen.
-  - heading: Prof. Teun Dekker
-    imageUrl: /img/teun-dekker-sq.jpg
-    text: >-
-      Teun J Dekker is Professor of Liberal Arts and Sciences Education at
-      University College Maastricht, where he teaches courses on the
-      intersection of the Social Sciences and the Humanities, including History
-      of Political Thought and Distributive Justice in Contemporary Political
-      Philosophy.
-  - heading: Birte Strunck
-    imageUrl: /img/birte-strunck-sq.jpg
-    text: >-
-      Birte Strunk studied International Relations, Political Philosophy and
-      Sustainability in Maastricht and London. She then spent a year working as
-      a Junior Teaching Fellow at University College Maastricht, and another
-      year doing internships in educational projects in Germany and Ecuador. She
-      currently studies Socio-Ecological Economics and Policy in Vienna. As a
-      part of the plural economics movement, member of the Post-Growth Economics
-      Network, and research fellow at the ZOE Institute for future-fit
-      economies, she researches issues of socio-economic transformation,
-      especially in relation to concepts of work and the welfare state.
-  - heading: Dr. Martijn Burger
-    imageUrl: /img/martijn-burger-sq.png
-    text: >-
-      Dr. Martijn Burger is Academic Director of the Erasmus Happiness Economics
-      Research Organization in Rotterdam. Most of his current research focuses
-      on happiness economics and urban and regional economics, including
-      geography of happiness, location decisions of multinational corporations,
-      and institutional and social conditions for economic development. In
-      addition, he is associate director of the Globalization and World Cities
-      Network (GaWC) Research Network and associate editor of the Journal of
-      Economic and Social Geography and International Journal of Community
-      Wellbeing.
-  - heading: Patrick Schreiner
-    imageUrl: /img/patrick-schreiner-sq.jpg
-    text: >-
-      Patrick Schreiner is Unionist and author of the books ‘Unterwerfung als
-      Freiheit: Leben im Neoliberalismus’(“Submission as freedom: life in
-      neoliberalism”) and ‘Warum Menschen sowas mitmachen: Achtzehn Sichtweisen
-      auf das Leben im Neoliberalismus’ (“Why do people take part in it:
-      eighteen perspectives on life in neoliberalism”)
-  - heading: 'Friederike Spiecker '
-    imageUrl: /img/friederike-spiecker-sq.jpg
-    text: >-
-      Friederike Spiecker graduated in economics from Konstanz University in
-      1991. In 1992, she joined a graduate college in Göttingen on a grant from
-      Volkswagen for outstanding young researchers. She started her professional
-      career in 1993 at the German Institute for Economic Research (DIW) in
-      Berlin. Her research was on business cycles and forecasting. Spiecker’s
-      current research focuses on theoretical and empirical macroeconomics and
-      on forecasting. Nowadays, Friederike Spiecker works as a freelance
-      researcher and writer on economics and as a consultant for political
-      parties, trade unions and other organisations.
+  heading: Our Speakers and Track Facilitators
+  description: We are happy to feature Dr. Dirk Ehnts, Melissa Vergara Fernández, Prof. Teun Dekker, Birte Strunck, and Dr. Martijn Burger as track facilitators and have Prof. Teun Dekker and Friederike Spiecker as speakers.
+  expert_list:
+    - heading: Dr. Dirk Ehnts
+      imageUrl: /img/dirk-ehnts-sq.jpeg
+      text: >-
+        Dr. Dirk Ehnts is an economist, based in Berlin, married with two
+        children. Speaker of the board of Pufendorf-Gesellschaft e. V., organizer
+        of the first European MMT conference and author of "Modern Monetary Theory
+        and European Macroeconomics" and the forthcoming textbook "Money and
+        Banking: New Foundations of Macroeconomics
+    - heading: Melissa Vergara Fernández
+      imageUrl: /img/melissa-vergara-fernandez-sq.jpg
+      text: >-
+        I am a philosopher of science, specialised in economics. I aspire to
+        establish dialogues between philosophers and economists that can
+        contribute to the reliability of economics as a science. I see economics
+        as a social science. This implies that it contributes to social scientific
+        knowledge but offers a single and limited perspective to this knowledge. I
+        got my PhD at the Erasmus Institute for Philosophy and Economics, at
+        Erasmus University Rotterdam. I am currently a Lecturer at the Faculty of
+        Economics and Business, Department of Economics, Econometrics, and Finance
+        at the University of Groningen. I also teach philosophy of the social
+        sciences at University College Groningen.
+    - heading: Prof. Teun Dekker
+      imageUrl: /img/teun-dekker-sq.jpg
+      text: >-
+        Teun J Dekker is Professor of Liberal Arts and Sciences Education at
+        University College Maastricht, where he teaches courses on the
+        intersection of the Social Sciences and the Humanities, including History
+        of Political Thought and Distributive Justice in Contemporary Political
+        Philosophy.
+    - heading: Birte Strunck
+      imageUrl: /img/birte-strunck-sq.jpg
+      text: >-
+        Birte Strunk studied International Relations, Political Philosophy and
+        Sustainability in Maastricht and London. She then spent a year working as
+        a Junior Teaching Fellow at University College Maastricht, and another
+        year doing internships in educational projects in Germany and Ecuador. She
+        currently studies Socio-Ecological Economics and Policy in Vienna. As a
+        part of the plural economics movement, member of the Post-Growth Economics
+        Network, and research fellow at the ZOE Institute for future-fit
+        economies, she researches issues of socio-economic transformation,
+        especially in relation to concepts of work and the welfare state.
+    - heading: Dr. Martijn Burger
+      imageUrl: /img/martijn-burger-sq.png
+      text: >-
+        Dr. Martijn Burger is Academic Director of the Erasmus Happiness Economics
+        Research Organization in Rotterdam. Most of his current research focuses
+        on happiness economics and urban and regional economics, including
+        geography of happiness, location decisions of multinational corporations,
+        and institutional and social conditions for economic development. In
+        addition, he is associate director of the Globalization and World Cities
+        Network (GaWC) Research Network and associate editor of the Journal of
+        Economic and Social Geography and International Journal of Community
+        Wellbeing.
+    - heading: Patrick Schreiner
+      imageUrl: /img/patrick-schreiner-sq.jpg
+      text: >-
+        Patrick Schreiner is Unionist and author of the books ‘Unterwerfung als
+        Freiheit: Leben im Neoliberalismus’(“Submission as freedom: life in
+        neoliberalism”) and ‘Warum Menschen sowas mitmachen: Achtzehn Sichtweisen
+        auf das Leben im Neoliberalismus’ (“Why do people take part in it:
+        eighteen perspectives on life in neoliberalism”)
+    - heading: 'Friederike Spiecker '
+      imageUrl: /img/friederike-spiecker-sq.jpg
+      text: >-
+        Friederike Spiecker graduated in economics from Konstanz University in
+        1991. In 1992, she joined a graduate college in Göttingen on a grant from
+        Volkswagen for outstanding young researchers. She started her professional
+        career in 1993 at the German Institute for Economic Research (DIW) in
+        Berlin. Her research was on business cycles and forecasting. Spiecker’s
+        current research focuses on theoretical and empirical macroeconomics and
+        on forecasting. Nowadays, Friederike Spiecker works as a freelance
+        researcher and writer on economics and as a consultant for political
+        parties, trade unions and other organisations.
 schedule:
   content: >-
     ## Friday
@@ -292,4 +295,3 @@ schedule:
     more (tba)
   heading: Preliminary Program Outline
 ---
-
