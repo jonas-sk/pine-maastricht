@@ -1,7 +1,8 @@
 ---
 layout: conference-2019
-menu: {main: {weight: -100}}
-linktitle: Conference 2019
+menu:
+  main:
+    weight: -100
 title: PINE Conference 2019
 publishdate: 2019-04-17T16:05:25.853Z
 lastmod: 2019-04-19T16:05:28.823Z
@@ -115,8 +116,8 @@ tracks:
   description: 'Participants will be able to follow one of the below tracks. '
   heading: Tracks
   tiles:
-    - heading: What could be the role of the state in a modern economy?
-      image: /img/about-jumbotron.jpg
+    - heading: What could be the Role of the State in a Modern Economy?
+      image: /img/track1.jpg
       text: >-
         Thinking about the role of the state has until recently been an exercise
         in demonizing the state and politics in general. Welfare states have
@@ -134,7 +135,7 @@ tracks:
         distribution policy, industrial policy, the Job Guarantee and financial
         market regulation. The track facilitator is Dr. Dirk Ehnts.
     - heading: What Kind of Pluralism in Economics?
-      image: /img/about-direct-sourcing.jpg
+      image: /img/pine-tree.jpg
       text: >-
         In this track we will explore the notion of pluralism in economics in
         some depth. We will look at different kinds of pluralism or dimensions
@@ -144,7 +145,7 @@ tracks:
         economics as a scientific discipline and decision-making in policy
         contexts. The track facilitator will be Melissa Vergara Fernández.
     - heading: 'Freedom, Efficiency and Justice in the Market '
-      image: /img/about-reinvest-profits.jpg
+      image: /img/track-3.jpg
       text: >-
         Freedom, Efficiency and Justice are three appealing values we might want
         our economic system to realise. However, it is not clear what it means
@@ -153,7 +154,7 @@ tracks:
         and explore what trade-offs there are between them, as well as how they
         might be reconciled. The track facilitator will be Prof. Teun Dekker.
     - heading: The Purpose of the Economy - Growth?
-      image: /img/about-sustainable-farming.jpg
+      image: /img/track-4.jpg
       text: >-
         In this track we will focus on the role of economic growth and its
         entanglements with the purpose(s) of the economy. We trace how economic
@@ -170,13 +171,14 @@ tracks:
         move away from environmentally harmful consumer welfare, might look
         like. The track facilitator will be Birte Strunck
     - heading: Happiness
-      image: /img/blog-flavor_wheel.jpg
+      image: /img/track-5.jpg
       text: tba. The track facilitator will be Dr. Martijn Burger
 experts:
   description: >-
     We are happy to feature Dr. Dirk Ehnts, Melissa Vergara Fernández, Prof.
     Teun Dekker, Birte Strunck, and Dr. Martijn Burger as track facilitators and
-    are fortunate to have Prof. Teun Dekker and Friederike Spiecker as speakers.
+    are fortunate to have Patrick Schreiner, Dr. Dirk Ehnts and Prof. Teun
+    Dekker as speakers.
   expert_list:
     - heading: Dr. Dirk Ehnts
       imageUrl: /img/dirk-ehnts-sq.jpeg
@@ -240,19 +242,6 @@ experts:
         neoliberalism”) and ‘Warum Menschen sowas mitmachen: Achtzehn
         Sichtweisen auf das Leben im Neoliberalismus’ (“Why do people take part
         in it: eighteen perspectives on life in neoliberalism”)
-    - heading: 'Friederike Spiecker '
-      imageUrl: /img/friederike-spiecker-sq.jpg
-      text: >-
-        Friederike Spiecker graduated in economics from Konstanz University in
-        1991. In 1992, she joined a graduate college in Göttingen on a grant
-        from Volkswagen for outstanding young researchers. She started her
-        professional career in 1993 at the German Institute for Economic
-        Research (DIW) in Berlin. Her research was on business cycles and
-        forecasting. Spiecker’s current research focuses on theoretical and
-        empirical macroeconomics and on forecasting. Nowadays, Friederike
-        Spiecker works as a freelance researcher and writer on economics and as
-        a consultant for political parties, trade unions and other
-        organisations.
   heading: Our Speakers and Track Facilitators
 schedule:
   content: >-
@@ -304,3 +293,4 @@ schedule:
     more (tba)
   heading: Preliminary Program Outline
 ---
+
