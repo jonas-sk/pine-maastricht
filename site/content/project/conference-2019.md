@@ -135,7 +135,7 @@ tracks:
         distribution policy, industrial policy, the Job Guarantee and financial
         market regulation. The track facilitator is Dr. Dirk Ehnts.
     - heading: What Kind of Pluralism in Economics?
-      image: /img/pine-tree.jpg
+      image: /img/soap-bubble-3594979_1920.jpg
       text: >-
         In this track we will explore the notion of pluralism in economics in
         some depth. We will look at different kinds of pluralism or dimensions
