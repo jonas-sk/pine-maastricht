@@ -143,7 +143,7 @@ tracks:
         are all equally beneficial and, if so, to what extent. We will focus on
         the role of pluralism in economics with respect to two aspects:
         economics as a scientific discipline and decision-making in policy
-        contexts. The track facilitator will be Melissa Vergara Fernández.
+        contexts. The track facilitator will be Dr. Melissa Vergara Fernández.
     - heading: 'Freedom, Efficiency and Justice in the Market '
       image: /img/track-3.jpg
       text: >-
@@ -188,7 +188,7 @@ experts:
         organizer of the first European MMT conference and author of "Modern
         Monetary Theory and European Macroeconomics" and the forthcoming
         textbook "Money and Banking: New Foundations of Macroeconomics
-    - heading: Melissa Vergara Fernández
+    - heading: Dr. Melissa Vergara Fernández
       imageUrl: /img/melissa-vergara-fernandez-sq.jpg
       text: >-
         I am a philosopher of science, specialised in economics. I aspire to
