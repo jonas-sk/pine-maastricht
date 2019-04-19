@@ -1,7 +1,9 @@
 ---
-menu: {main: {weight: -80}}
-linktitle: Blog
+menu:
+  main:
+    weight: -80
 title: Latest Posts and News
-image: /img/about-reinvest-profits.jpg
-subtitle: Find the latest blog posts below
+image: /img/maastricht-cityhall.jpg
+description: Find Our Latest Blog Articles Here
 ---
+
