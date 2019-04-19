@@ -1,4 +1,5 @@
 ---
+menu: {main: {weight: -60}}
 title: "Contact"
 logo: "/img/logo.svg"
 contact_entries:

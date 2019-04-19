@@ -1,4 +1,5 @@
 ---
+menu: {main: {weight: -80}}
 linktitle: Blog
 title: Latest Posts and News
 image: /img/about-reinvest-profits.jpg

@@ -1,4 +1,5 @@
 ---
+menu: {main: {weight: -70}}
 linktitle: About
 title: About PINE
 image: /img/pine-team-3.jpg
