@@ -14,7 +14,7 @@ collections: # A list of collections the CMS should be able to edit
     folder: "site/content/post" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}-{{day}}-{{month}}-{{year}}"
-    preview_path: post/{{slug}}
+    preview_path: "post/{{slug}}"
     filter: {field: "ispost", value: "true"}
     fields: # The fields each document in this collection have
       - {label: "Is Post?", name: "ispost", widget: "hidden", default: "true"}
@@ -28,7 +28,7 @@ collections: # A list of collections the CMS should be able to edit
     folder: "site/content/project"
     create: true
     slug: "{{slug}}"
-    preview_path: {{slug}}
+    preview_path: "{{slug}}"
     filter: {field: "isproject", value: "true"}
     fields:
       - {label: "Is Project?", name: "isproject", widget: "hidden", default: "true"}
