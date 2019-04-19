@@ -14,16 +14,20 @@
 
 {{ partial "two-tiles" .Params.tracks }}
 
-<div class="mw7 center ph3 pv4">
+<div class="bg-grey-1 pv4">
+  <div class="mw7 center ph3">
+    <h1 class="f2 lh-title b mb3">{{ .Params.experts.heading }}</h1>
+    <p class="mw6 cms">{{ .Params.experts.description }}</p>
 
-  {{ range $index, $element := .Params.experts }}
-    {{ if modBool $index 2 }}
-      {{ partial "media-block" $element }}
-    {{ else }}
-      {{ partial "media-block-reverse" $element }}
+    {{ range $index, $element := .Params.experts.expert_list }}
+      {{ if modBool $index 2 }}
+        {{ partial "media-block" $element }}
+      {{ else }}
+        {{ partial "media-block-reverse" $element }}
+      {{ end }}
     {{ end }}
-  {{ end }}
 
+  </div>
 </div>
 
 

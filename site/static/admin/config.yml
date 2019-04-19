@@ -156,7 +156,7 @@ collections: # A list of collections the CMS should be able to edit
             widget: object
             fields:
               - {label: Heading, name: heading, widget: string}
-              - {label: Text, name: text, widget: text}
+              - {label: Text, name: text, widget: markdown}
               - {label: Image, name: imageUrl, widget: image}
               - {label: "Button Text", name: button, widget: string}
               - {label: "Button URL", name: link, widget: string}
@@ -176,11 +176,17 @@ collections: # A list of collections the CMS should be able to edit
                   - {label: Image, name: image, widget: image, required: false}
           - label: Experts
             name: experts
-            widget: list
+            widget: object
             fields:
-              - {label: Heading, name: heading, widget: string}
-              - {label: Text, name: text, widget: text}
-              - {label: Image, name: imageUrl, widget: image}
+              - {label: "Heading", name: heading, widget: string}
+              - {label: "Description", name: description, widget: string}
+              - label: "Expert list"
+                name: expert_list
+                widget: list
+                fields:
+                  - {label: Heading, name: heading, widget: string}
+                  - {label: Text, name: text, widget: text}
+                  - {label: Image, name: imageUrl, widget: image}
           - label: Schedule
             name: schedule
             widget: object
