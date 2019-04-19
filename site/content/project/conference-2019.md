@@ -116,8 +116,8 @@ tracks:
   description: 'Participants will be able to follow one of the below tracks. '
   heading: Tracks
   tiles:
-    - heading: What could be the role of the state in a modern economy?
-      image: /img/about-jumbotron.jpg
+    - heading: What could be the Role of the State in a Modern Economy?
+      image: /img/track1.jpg
       text: >-
         Thinking about the role of the state has until recently been an exercise
         in demonizing the state and politics in general. Welfare states have
@@ -135,7 +135,7 @@ tracks:
         distribution policy, industrial policy, the Job Guarantee and financial
         market regulation. The track facilitator is Dr. Dirk Ehnts.
     - heading: What Kind of Pluralism in Economics?
-      image: /img/about-direct-sourcing.jpg
+      image: /img/pine-tree.jpg
       text: >-
         In this track we will explore the notion of pluralism in economics in
         some depth. We will look at different kinds of pluralism or dimensions
@@ -145,7 +145,7 @@ tracks:
         economics as a scientific discipline and decision-making in policy
         contexts. The track facilitator will be Melissa Vergara Fernández.
     - heading: 'Freedom, Efficiency and Justice in the Market '
-      image: /img/about-reinvest-profits.jpg
+      image: /img/track-3.jpg
       text: >-
         Freedom, Efficiency and Justice are three appealing values we might want
         our economic system to realise. However, it is not clear what it means
@@ -154,7 +154,7 @@ tracks:
         and explore what trade-offs there are between them, as well as how they
         might be reconciled. The track facilitator will be Prof. Teun Dekker.
     - heading: The Purpose of the Economy - Growth?
-      image: /img/about-sustainable-farming.jpg
+      image: /img/track-4.jpg
       text: >-
         In this track we will focus on the role of economic growth and its
         entanglements with the purpose(s) of the economy. We trace how economic
@@ -171,7 +171,7 @@ tracks:
         move away from environmentally harmful consumer welfare, might look
         like. The track facilitator will be Birte Strunck
     - heading: Happiness
-      image: /img/blog-flavor_wheel.jpg
+      image: /img/track-5.jpg
       text: tba. The track facilitator will be Dr. Martijn Burger
 experts:
   description: >-
