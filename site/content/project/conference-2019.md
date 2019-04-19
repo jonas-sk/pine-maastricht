@@ -13,7 +13,7 @@ description: >-
 intro:
   button: Register Now!
   heading: Overview
-  imageUrl: /img/pine-conference-poster.jpg
+  imageUrl: /img/pine-conference-poster-final-page-001.jpg
   link: '#'
   text: >
     Can you imagine your economics professors or politicians questioning the
