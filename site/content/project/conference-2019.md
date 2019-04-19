@@ -112,7 +112,7 @@ tracks:
   heading: Tracks
   tiles:
     - heading: What could be the role of the state in a modern economy?
-      image: /img/about-jumbotron.jpg
+      image: /img/aerial-aerial-shot-aerial-view-938582.jpg
       text: >-
         Thinking about the role of the state has until recently been an exercise
         in demonizing the state and politics in general. Welfare states have
@@ -130,7 +130,7 @@ tracks:
         distribution policy, industrial policy, the Job Guarantee and financial
         market regulation. The track facilitator is Dr. Dirk Ehnts.
     - heading: What Kind of Pluralism in Economics?
-      image: /img/about-direct-sourcing.jpg
+      image: /img/assortment-bright-candy-1043519.jpg
       text: >-
         In this track we will explore the notion of pluralism in economics in
         some depth. We will look at different kinds of pluralism or dimensions
