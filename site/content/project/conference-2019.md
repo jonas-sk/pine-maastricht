@@ -1,5 +1,6 @@
 ---
 layout: conference-2019
+menu: {main: {weight: -100}}
 title: PINE Conference 2019
 publishdate: 2019-04-17T16:05:25.853Z
 lastmod: 2019-04-19T16:05:28.823Z
@@ -302,4 +303,3 @@ schedule:
     more (tba)
   heading: Preliminary Program Outline
 ---
-
