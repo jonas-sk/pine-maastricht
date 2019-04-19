@@ -1,7 +1,8 @@
 ---
 layout: conference-2019
-menu: {main: {weight: -100}}
-linktitle: Conference 2019
+menu:
+  main:
+    weight: -100
 title: PINE Conference 2019
 publishdate: 2019-04-17T16:05:25.853Z
 lastmod: 2019-04-19T16:05:28.823Z
@@ -176,7 +177,8 @@ experts:
   description: >-
     We are happy to feature Dr. Dirk Ehnts, Melissa Vergara Fernández, Prof.
     Teun Dekker, Birte Strunck, and Dr. Martijn Burger as track facilitators and
-    are fortunate to have Prof. Teun Dekker and Friederike Spiecker as speakers.
+    are fortunate to have Patrick Schreiner, Dr. Dirk Ehnts and Prof. Teun
+    Dekker as speakers.
   expert_list:
     - heading: Dr. Dirk Ehnts
       imageUrl: /img/dirk-ehnts-sq.jpeg
@@ -240,19 +242,6 @@ experts:
         neoliberalism”) and ‘Warum Menschen sowas mitmachen: Achtzehn
         Sichtweisen auf das Leben im Neoliberalismus’ (“Why do people take part
         in it: eighteen perspectives on life in neoliberalism”)
-    - heading: 'Friederike Spiecker '
-      imageUrl: /img/friederike-spiecker-sq.jpg
-      text: >-
-        Friederike Spiecker graduated in economics from Konstanz University in
-        1991. In 1992, she joined a graduate college in Göttingen on a grant
-        from Volkswagen for outstanding young researchers. She started her
-        professional career in 1993 at the German Institute for Economic
-        Research (DIW) in Berlin. Her research was on business cycles and
-        forecasting. Spiecker’s current research focuses on theoretical and
-        empirical macroeconomics and on forecasting. Nowadays, Friederike
-        Spiecker works as a freelance researcher and writer on economics and as
-        a consultant for political parties, trade unions and other
-        organisations.
   heading: Our Speakers and Track Facilitators
 schedule:
   content: >-
@@ -304,3 +293,4 @@ schedule:
     more (tba)
   heading: Preliminary Program Outline
 ---
+
