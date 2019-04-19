@@ -2,7 +2,7 @@
 layout: conference-2019
 title: PINE Conference 2019
 publishdate: 2019-04-17T16:05:25.853Z
-lastmod: 2019-04-17T16:05:28.823Z
+lastmod: 2019-04-19T16:05:28.823Z
 image: /img/pine-team-1.jpg
 description: >-
   The Purpose of the Economy - A Pluralism In Economics Conference taking place
@@ -299,3 +299,4 @@ schedule:
     more (tba)
   heading: Preliminary Program Outline
 ---
+
