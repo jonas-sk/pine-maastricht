@@ -5,13 +5,14 @@
 		<img src="/img/logo-black.svg" alt="PINE logo" class="br0 db mb0 w-100"/>
 	</a>
 
-	<ul class="flex b grey-3">
+	<ul class="flex flex-row items-stretch b grey-3 self-stretch">
     {{ range .Site.Menus.main }}
     <li>
-			 <a class="pa3 no-underline db" href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>
+			 <a class="h-100 no-underline items-center flex" href="{{ .URL }}" title="{{ .Title }}">
+				 <p class="pa3 mb0 no-underline v-mid"> {{ .Name }} </p>
+			 </a>
 		</li>
     {{ end }}
 	</ul>
-
 
 </nav>
