@@ -9,10 +9,10 @@
 {{ partial "two-tiles" .Params.arguments }}
 
 {{ with .Params.team }}
-<div class="center bg-grey-1 pv4">
-  <h3 class="f3 b lh-title mb3 mw6 ph3">{{ .heading }}</h3>
+<div class="bg-grey-1 pv4">
+  <h3 class="f2 b lh-title mb3 mw6 ph3 center">{{ .heading }}</h3>
   <img src="{{ .image }}" alt="" class="db w-100">
-    <p class="mw6 ph3 mb3">{{ .description }}</p>
+  <p class="mw6 ph3 mv3 center">{{ .description }}</p>
 </div>
 {{ end }}
 

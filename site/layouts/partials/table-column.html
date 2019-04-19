@@ -1,4 +1,4 @@
-<div class="ph2">
+<div class="ph3">
 
 	<!-- Title -->
 	<h3 class="b f5 grey-3 tc lh-title mb3">{{.heading}}</h3>
@@ -9,7 +9,9 @@
 	</p> -->
 
 	<!-- Image -->
-	<img class="h4 center db mb3 w-100" src="{{ .imageUrl }}" style="object-fit: cover">
+	{{ with .imageUrl }}
+	<img class="h4 center db mb3 w-100" src="{{ . }}" style="object-fit: cover">
+	{{ end }}
 
 	<!-- Description -->
 	<p class="b">{{.description}}</p>
