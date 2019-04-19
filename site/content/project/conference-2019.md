@@ -13,7 +13,7 @@ description: >-
 intro:
   button: Register Now!
   heading: Overview
-  imageUrl: /img/pine-conference-poster.jpg
+  imageUrl: /img/pine-conference-poster-final-page-001.jpg
   link: '#'
   text: >
     Can you imagine your economics professors or politicians questioning the
@@ -289,8 +289,8 @@ schedule:
     Coffee & Tea
 
 
-    Synthesis Panel - Prof. Dr. Teun Dekker, Dr. Dirk Ehnts, Birte Strunk, and
-    more (tba)
+    Synthesis Panel - Prof. Dr. Teun Dekker, Dr. Dirk Ehnts, Dr. Melissa
+    Fenández, and more (tba)
   heading: Preliminary Program Outline
 ---
 
