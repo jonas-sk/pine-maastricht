@@ -61,6 +61,7 @@ collections: # A list of collections the CMS should be able to edit
         name: "posts"
         fields:
           - {label: "Menu", name: "menu", widget: "hidden", default: "{main: {weight: -80}}"}
+          - {label: "Link title", name: "linktitle", widget: "hidden", default: "Blog"}
           - {label: Title, name: title, widget: string}
           - {label: Image, name: image, widget: image}
           - {label: Description, name: description, widget: string}
@@ -69,6 +70,7 @@ collections: # A list of collections the CMS should be able to edit
         name: "projects"
         fields:
           - {label: "Menu", name: "menu", widget: "hidden", default: "{main: {weight: -90}}"}
+          - {label: "Link title", name: "linktitle", widget: "hidden", default: "Projects"}
           - {label: Title, name: title, widget: string}
           - {label: Image, name: image, widget: image}
           - {label: Description, name: description, widget: string}
