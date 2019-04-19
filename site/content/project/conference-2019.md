@@ -289,8 +289,8 @@ schedule:
     Coffee & Tea
 
 
-    Synthesis Panel - Prof. Dr. Teun Dekker, Dr. Dirk Ehnts, Birte Strunk, and
-    more (tba)
+    Synthesis Panel - Prof. Dr. Teun Dekker, Dr. Dirk Ehnts, Dr. Melissa
+    Fenández, and more (tba)
   heading: Preliminary Program Outline
 ---
 
