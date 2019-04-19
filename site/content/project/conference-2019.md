@@ -1,7 +1,7 @@
 ---
-title: PINE Conference 2019
 layout: conference-2019
-menu: "main"
+menu: main
+title: PINE Conference 2019
 publishdate: 2019-04-17T16:05:25.853Z
 lastmod: 2019-04-17T16:05:28.823Z
 image: /img/pine-team-1.jpg
@@ -13,7 +13,24 @@ intro:
   heading: Overview
   imageUrl: /img/pine-conference-poster.jpg
   link: '#'
-  text: <<SUMMARY TEXT GOES HERE>>
+  text: >
+    Can you imagine your economics professors or politicians questioning the
+    value of economic growth? Reconsider the dominant theories of banking?
+    Philosophize about the fundamental values we perpetuate with our economic
+    activity? No? Well, that’s what we will do at this year’s PINE Conference
+    ‘The Purpose of the Economy’. Let’s call into question the very basis of the
+    economic conduct: What is its purpose, what do we do it for? Should we amend
+    the purpose we are currently following? 
+
+
+    At our conference, you will get the chance to come together with fellow
+    students, friends and experts to tackle these and more issues from a
+    pluralistic perspective. It doesn’t matter whether you are studying
+    economics or biology, philosophy or medicine; whether you are a carpenter or
+    academic; whether you are just entering your adult life or getting ready for
+    pension; this is the place for you! No pre-knowledge is required.
+    Nonetheless: Complex issues require complex solutions, and it is up to us to
+    draft and realize them. Join us this June in beautiful Maastricht!
 details: >-
   The Pluralism in Economics Conference is an annual two-day event organised by
   the student initiative Pluralism in Economics (PINE) at the University College
@@ -275,3 +292,4 @@ schedule:
     more (tba)
   heading: Preliminary Program Outline
 ---
+
