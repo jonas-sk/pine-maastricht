@@ -8,4 +8,4 @@ sectionPagesMenu = "main" #Sections are automatically menu items
   title = "PINE Maastricht"
 
 [permalinks]
-  work = "/:slug/"
+  project = "/:slug/"
