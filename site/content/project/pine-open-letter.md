@@ -10,7 +10,7 @@ image: /img/sbe-1.jpg
 ---
 # An Open Letter to the Dean of SBE and all Economics Professors at Maastricht University (UM)
 
-[PDF Version: PINE Open Letter to UM](https://pinemaastricht.files.wordpress.com/2019/02/pine-open-letter-to-um.pdf)
+[PDF Version: PINE Open Letter to UM](img/pine-open-letter-to-um.pdf)
 
 _RE: Evidence suggests that UM’s teaching on how banks work is flawed – and why this matters a lot!_
 
@@ -60,21 +60,17 @@ The director of the cooperating bank, Mr. Rebl, also confirmed the results. (Wer
 >
 > \
 >
->
 > Confirmation of Facts
 >
 > \
->
 >
 > In connection with the extension of credit to you in August 2014 I am pleased to confirm that neither I as director of Raiffeisenbank Wildenberg eG, nor our staff checked either before or during the granting of the loan to you, whether we keep sufficient funds with our central bank, DZ Bank AG, or the Bundesbank. We also did not engage in any such related transaction, nor did we undertake any transfers or account bookings in order to finance the credit balance in your account. Therefore, we did not engage in any checks or transactions in order to provide liquidity.
 >
 > \
 >
->
 > Yours sincerely,
 >
 > \
->
 >
 > M. Rebl (Director, Raiffeisenbank Wildenberg e.G.)
 
