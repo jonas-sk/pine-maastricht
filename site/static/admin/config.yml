@@ -14,6 +14,7 @@ collections: # A list of collections the CMS should be able to edit
     folder: "site/content/post" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}-{{day}}-{{month}}-{{year}}"
+    preview_path: post/{{slug}}
     filter: {field: "ispost", value: "true"}
     fields: # The fields each document in this collection have
       - {label: "Is Post?", name: "ispost", widget: "hidden", default: "true"}
@@ -27,6 +28,7 @@ collections: # A list of collections the CMS should be able to edit
     folder: "site/content/project"
     create: true
     slug: "{{slug}}"
+    preview_path: project/{{slug}}
     filter: {field: "isproject", value: "true"}
     fields:
       - {label: "Is Project?", name: "isproject", widget: "hidden", default: "true"}
@@ -42,6 +44,7 @@ collections: # A list of collections the CMS should be able to edit
       - file: "site/content/_index.md"
         label: "Home Page"
         name: "home"
+        preview_path: /
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Subtitle, name: subtitle, widget: string}
@@ -56,6 +59,7 @@ collections: # A list of collections the CMS should be able to edit
       - file: "site/content/post/_index.md"
         label: "List of Posts"
         name: "posts"
+        preview_path: post/
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Image, name: image, widget: image}
@@ -63,6 +67,7 @@ collections: # A list of collections the CMS should be able to edit
       - file: "site/content/project/_index.md"
         label: "List of Projects"
         name: "projects"
+        preview_path: project/
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Image, name: image, widget: image}
@@ -70,6 +75,7 @@ collections: # A list of collections the CMS should be able to edit
       - file: "site/content/about/_index.md"
         label: "About Page"
         name: "about"
+        preview_path: about/
         fields:
           - {label: "Link Title", name: linktitle, widget: hidden, default: "About"}
           - {label: "Title", name: title, widget: string}
@@ -126,6 +132,7 @@ collections: # A list of collections the CMS should be able to edit
       - file: "site/content/contact/_index.md"
         label: "Contact Page"
         name: "contact"
+        preview_path: contact/
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Logo, name: logo, widget: image}
@@ -143,6 +150,7 @@ collections: # A list of collections the CMS should be able to edit
       - file: "site/content/project/conference-2019.md"
         label: "PINE Conference 2019"
         name: "conference-2019"
+        preview_path: project/conference-2019
         fields:
           - {label: "Layout", name: "layout", widget: "hidden", default: "conference-2019"}
           - {label: "Menu", name: "menu", widget: "hidden", default: "main"}
