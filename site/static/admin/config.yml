@@ -155,6 +155,7 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - {label: "Layout", name: "layout", widget: "hidden", default: "conference-2019"}
           - {label: "Menu", name: "menu", widget: "hidden", default: "{main: {weight: -100}}"}
+          - {label: "Link title", name: "linktitle", widget: "hidden", default: "Conference 2019"}
           - {label: Title, name: title, widget: string}
           - {label: "Published", name: "publishdate", widget: "datetime"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime"}
