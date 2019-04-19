@@ -31,6 +31,9 @@ intro:
     Nonetheless: Complex issues require complex solutions, and it is up to us to
     draft and realize them. Join us this June in beautiful Maastricht!
 details: >-
+  # Details
+
+
   The Pluralism in Economics Conference is an annual two-day event organised by
   the student initiative Pluralism in Economics (PINE) at the University College
   Maastricht (UCM). With its conferences, PINE wants to offer a platform for
