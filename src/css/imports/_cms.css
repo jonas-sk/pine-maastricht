@@ -70,13 +70,12 @@
 	}
 
 	& ol {
-		--spacing: calc(var(--spacing-medium) + var(--spacing-small));
 		list-style: none;
-		margin-left: var(--spacing);
+		margin-left: calc(var(--spacing-medium) + var(--spacing-small));
 		counter-reset: i 0;
     & >li:before {
       font-weight: 800;
-      left: calc(-1 * var(--spacing));
+      left: calc(-1 * calc(var(--spacing-medium) + var(--spacing-small)));
       position: absolute;
       height: 100%;
       content: counter(i) ".";
