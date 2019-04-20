@@ -10,7 +10,9 @@
 
 {{ with .Params.team }}
 <div class="bg-grey-1 pv4">
-  <h3 class="f2 b lh-title mb3 mw6 ph3 center">{{ .heading }}</h3>
+  <div class="mb3 mw6 ph3 center">
+    <h2 class="f2 b lh-title">{{ .heading }}</h2>
+  </div>
   <img src="{{ .image }}" alt="" class="db w-100">
   <p class="mw6 ph3 mv3 center">{{ .description }}</p>
 </div>
