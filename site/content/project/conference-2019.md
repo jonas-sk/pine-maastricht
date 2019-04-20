@@ -4,7 +4,7 @@ menu:
   main:
     weight: -100
 linktitle: Conference 2019
-title: PINE Conference 2019
+title: Conference 2019
 publishdate: 2019-04-17T16:05:25.853Z
 lastmod: 2019-04-19T16:05:28.823Z
 image: /img/pine-team-1.jpg
@@ -294,3 +294,4 @@ schedule:
     Fenández, and more (tba)
   heading: Preliminary Program Outline
 ---
+
