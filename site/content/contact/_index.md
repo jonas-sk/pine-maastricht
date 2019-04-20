@@ -12,7 +12,6 @@ contact_entries:
   - heading: Weekly Meeting
     text: 'Wednesday, 6pm, Room C0.022 in UCM'
 ---
-We’d love to get in touch with you and hear your ideas and questions. We strive to grow and improve constantly and your feedback
-is valuable for us.
+If you want to join the group, if you have any questions about upcoming events and lectures, schools of thought, what we’re working on or, if you have any suggestions for speakers you would like to see at our events or anything else please get in touch! PS: We love literature recommendations!
 
-You can use the form below or reach us at <mailto:pine.ucm@gmail.com>
+You can use the form below or reach us at <mailto:pine.ucm@gmail.com> or on [Facebook](https://www.facebook.com/pineucm/)
