@@ -1,26 +1,15 @@
 :root {
 	/* Colors */
-	/* --primary: rgba(255, 68, 0, 1) */
-	/* --primary: rgba(145, 200, 60, 1); /* change red 150-190 */
-	/*--highlight: rgba(254, 213, 198, 1); */
-	/* --highlight: rgba(226, 247, 193, 1);
-	--white: rgba(255, 255, 255, 1);
-	--off-white: rgba(255, 253, 252, 1);
-	--grey-1: rgba(245, 243, 242, 1);
-	--grey-2: rgba(235, 231, 230, 1);
-	--grey-3: rgba(89, 87, 86, 1);
-	--grey-4: rgba(66, 64, 64, 1);
-	--black: rgba(43, 37, 35, 1); */
 
-	--primary: hsla(84, 80%, 40%, 1);
-	--highlight: hsla(83, 77%, 86%, 1);
+	--primary: hsla(88, 80%, 35%, 1);
+	--highlight: hsla(88, 75%, 85%, 1);
 	--white: hsla(0, 0%, 100%, 1);
-	--off-white: hsla(85, 100%, 99%, 1);
-	--grey-1: hsla(84, 13%, 95%, 1);
-	--grey-2: hsla(85, 11%, 91%, 1);
-	--grey-3: hsla(85, 2%, 34%, 1);
-	--grey-4: hsla(85, 2%, 25%, 1);
-	--black: hsla(85, 10%, 15%, 1);
+	--off-white: hsla(88, 100%, 99%, 1);
+	--grey-1: hsla(88, 13%, 95%, 1);
+	--grey-2: hsla(88, 11%, 91%, 1);
+	--grey-3: hsla(88, 2%, 34%, 1);
+	--grey-4: hsla(88, 2%, 25%, 1);
+	--black: hsla(88, 10%, 15%, 1);
 
 	/* --primary: hsla(16, 100%, 50%, 1);
 	--highlight: hsla(16, 97%, 89%, 1);

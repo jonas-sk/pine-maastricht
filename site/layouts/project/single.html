@@ -2,7 +2,7 @@
 
   {{ if .Params.image }}
     {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Description) }}
-      <div class="mw6 center ph3 pv4">
+      <div class="cms mw6 center ph3 pv4">
         {{ .Content }}
   {{ else }}
     <div class="mw6 center ph3 pv4">
