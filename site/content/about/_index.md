@@ -1,5 +1,7 @@
 ---
-menu: {main: {weight: -70}}
+menu:
+  main:
+    weight: -70
 linktitle: About
 title: About PINE
 image: /img/pine-team-3.jpg
@@ -14,16 +16,26 @@ intro:
     in the center of Maastricht.
 work:
   columns:
-    - description: of the current curriculum
+    - description: Examining the current curriculum
       heading: Assessment
+      items:
+        - Assessment report
+        - Design the "Economics and Society" course
+        - Suggest specific improvements
+        - Request adaptation of outside courses
     - description: Organizing various events
       heading: Events
       items:
         - Guest lectures
-        - Discussions and Debates
-        - Reading Circles
+        - Discussions and debates
+        - Reading circles
+        - Awareness campaigns
     - description: Organizing the PINE Conference
       heading: Conference
+      items:
+        - '2019: The Purpose of the Economy'
+        - '2018: Capitalism and Inequality'
+        - '2017: Capitalism and Democracy'
   description: Our work can be divided into three pillars
   heading: What we do
 arguments:
@@ -49,6 +61,22 @@ team:
   heading: Our team
   image: /img/pine-team-1.jpg
 details: >-
+  # Mission
+
+
+  To pursue our idea of a pluralist economics education, PINE UCM wants to...
+
+
+  1. Facilitate critical debate on economics and its many branches;
+
+  2. Foster the learning about economic issues in a pluralist context;
+
+  3. Contribute to the diversification of the economic discipline; and
+
+  4. Prepare students to tackle and address pressing challenges of the 21st
+  century.
+
+
   # Why Pluralism?
 
 
@@ -164,3 +192,4 @@ details: >-
   * Alumni of the [Hobart and William Smith
   Colleges](http://ntu.ac.uk/nbs/document_uploads/108980.pdf)
 ---
+
