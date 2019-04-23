@@ -257,48 +257,46 @@ schedule:
     **19:00 - 19:30** Kick-off by PINE Team and Prof. Dr. Teun Dekker
 
 
-    **19:30 - 20:30** How does the Neoliberal Economy affect my Life? Lecture by
-    Patrick Schreiner
+    **19:30 - 20:30** Keynote Talk by Patrick Schreiner "How does the Neoliberal
+    Economy affect my Life?"
 
 
-    Get-together, informal discussions and drinks
+    **20:30 - 22:00** Get-together, informal discussions and drinks
 
 
     ## Saturday
 
 
-    **09:30 – 10:00** Philosophical Consideration: What do we do Economics for?
-    Lecture by Prof. Dr. Teun Dekker
+    **09:30 – 10:00** Keynote Talk by Prof. Dr. Teun Dekker "Philosophical
+    Consideration: What do we do Economics for?"
 
 
     **10:00 – 11:00** The Purpose and Function of Money Lecture Dr. Dirk Ehnts
 
 
-    **11:30 – 13:00** Coffee & Tea
+    **11:00 - 11:30**  Coffee & Tea
 
 
-    **14:00 – 15:30** Session in Tracks (1)
+    **11:30  - 13:00** Session in Tracks (1)
 
 
-    **16:00 – 17:00** Lunch
+    **13:00 - 14:00** Lunch 
 
 
-    **17:30 – 18:30** Session in Tracks (2)
+    **14:00 – 15:30**  Session in Tracks (2)
 
 
-    Cake
+    **15:30 - 16:00** Coffee & Cake 
 
 
-    Discussion rounds
+    **16:00 – 17:00** Discussion rounds 
 
 
-    Coffee & Tea
+    **17:00 - 17:30** Coffee & Tea 
 
 
-    Synthesis Panel - Prof. Dr. Teun Dekker, Dr. Dirk Ehnts, Dr. Melissa
-    Fenández, and more (tba)
-
-
+    **17:30 – 18:30** Final Panel - Prof. Dr. Teun Dekker, Dr. Dirk Ehnts, Dr.
+    Melissa Fenández, and more (tba)
 
 
     **You can register** [**here**](https://event.gg/12191/)**!**
