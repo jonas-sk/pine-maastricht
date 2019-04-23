@@ -15,7 +15,7 @@ intro:
   button: Register Now!
   heading: Overview
   imageUrl: /img/pine-conference-poster-final-page-001.jpg
-  link: '#'
+  link: 'https://event.gg/12191/'
   text: >
     Can you imagine your economics professors or politicians questioning the
     value of economic growth? Reconsider the dominant theories of banking?
