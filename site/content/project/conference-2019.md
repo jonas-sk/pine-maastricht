@@ -14,7 +14,7 @@ description: >-
 intro:
   button: Register now!
   heading: Overview
-  imageUrl: /img/pine-conference-poster-final-page-001.jpg
+  imageUrl: /img/pine-conference-poster-final-scaled50-.jpg
   link: 'https://event.gg/12191/'
   text: >
     Can you imagine your economics professors or politicians questioning the
@@ -117,10 +117,10 @@ details: >-
 
   **You can register** [**here**](https://event.gg/12191/)**!**
 tracks:
-  description: 'Participants will be able to follow one of the below tracks. '
-  heading: Tracks
   buttonlink: 'https://event.gg/12191/'
   buttontext: Register now!
+  description: 'Participants will be able to follow one of the below tracks. '
+  heading: Tracks
   tiles:
     - heading: What could be the Role of the State in a Modern Economy?
       image: /img/track1.jpg
@@ -304,3 +304,4 @@ schedule:
     **You can register** [**here**](https://event.gg/12191/)**!**
   heading: Preliminary Program Outline
 ---
+
