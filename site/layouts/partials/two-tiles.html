@@ -17,9 +17,8 @@
 			{{ end }}
 		</div>
 
-		{{ if (and .buttonLink .buttonText) }}
-			{{partial "button" (dict "buttonLink" .buttonLink "buttonText" .buttonText)}}
+		{{ if (and .buttonlink .buttontext) }}
+			{{partial "button" (dict "buttonLink" .buttonlink "buttonText" .buttontext)}}
 		{{ end }}
-
 	</div>
 </div>

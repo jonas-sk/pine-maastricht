@@ -117,10 +117,10 @@ details: >-
 
   **You can register** [**here**](https://event.gg/12191/)**!**
 tracks:
-  buttonLink: 'https://event.gg/12191/'
-  buttonText: Register now!
   description: 'Participants will be able to follow one of the below tracks. '
   heading: Tracks
+  buttonlink: 'https://event.gg/12191/'
+  buttontext: Register now!
   tiles:
     - heading: What could be the Role of the State in a Modern Economy?
       image: /img/track1.jpg
@@ -304,4 +304,3 @@ schedule:
     **You can register** [**here**](https://event.gg/12191/)**!**
   heading: Preliminary Program Outline
 ---
-
