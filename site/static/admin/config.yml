@@ -177,6 +177,8 @@ collections: # A list of collections the CMS should be able to edit
             fields:
               - {label: Heading, name: heading, widget: string}
               - {label: Description, name: description, widget: text}
+              - {label: "Button Text", name: buttonText, widget: string, required: false}
+              - {label: "Button URL", name: buttonLink, widget: string, required: false}
               - label: Tiles
                 name: tiles
                 widget: list
