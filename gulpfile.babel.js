@@ -31,6 +31,7 @@ gulp.task("hugo", (cb) => {
 
   buildSite(cb, args);
 });
+
 gulp.task("hugo-preview", (cb) => {
   let args = ['--buildDrafts', '--buildFuture'];
   if (process.env.DEPLOY_PRIME_URL) {
@@ -40,6 +41,7 @@ gulp.task("hugo-preview", (cb) => {
 
   buildSite(cb, args)
 });
+
 gulp.task("build", ["css", "js", "hugo"]);
 gulp.task("build-preview", ["css", "js", "hugo-preview"]);
 
