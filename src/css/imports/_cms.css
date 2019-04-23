@@ -71,11 +71,11 @@
 
 	& ol {
 		list-style: none;
-		margin-left: calc(var(--spacing-medium) + var(--spacing-small));
+		margin-left: 1.33rem;
 		counter-reset: i 0;
     & >li:before {
       font-weight: 800;
-      left: calc(-1 * calc(var(--spacing-medium) + var(--spacing-small)));
+      left: -1.33rem;
       position: absolute;
       height: 100%;
       content: counter(i) ".";
