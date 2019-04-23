@@ -185,7 +185,7 @@ tracks:
       text: tba. The track facilitator will be Dr. Martijn Burger
 experts:
   description: >-
-    We are happy to feature Dr. Dirk Ehnts, Melissa Vergara Fernández, Prof.
+    We are happy to feature Dr. Dirk Ehnts, Dr. Melissa Vergara Fernández, Prof.
     Teun Dekker, Birte Strunck, and Dr. Martijn Burger as track facilitators and
     are fortunate to have Patrick Schreiner, Dr. Dirk Ehnts and Prof. Teun
     Dekker as speakers.
