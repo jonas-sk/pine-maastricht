@@ -115,13 +115,7 @@ details: >-
   at the University College Maastricht in the Netherlands!
 
 
-  # Register Now!
-
-
-  <script
-  src="https://cdn.weemss.com/compiled/js/integration-embed.js?v1.6"></script><iframe
-  src="https://event.gg/12191/form" id="weemss_integration_12191"
-  frameBorder="0" width="100%" height="450" scrolling="no"></iframe>
+  **You can register** [**here**](https://event.gg/12191/)**!**
 tracks:
   description: 'Participants will be able to follow one of the below tracks. '
   heading: Tracks
@@ -301,6 +295,11 @@ schedule:
 
     Synthesis Panel - Prof. Dr. Teun Dekker, Dr. Dirk Ehnts, Dr. Melissa
     Fenández, and more (tba)
+
+
+
+
+    **You can register** [**here**](https://event.gg/12191/)**!**
   heading: Preliminary Program Outline
 ---
 
