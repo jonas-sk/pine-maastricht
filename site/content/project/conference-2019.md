@@ -113,6 +113,15 @@ details: >-
   neoclassical theory. Do you want to be part of this endeavour? Then join the
   Pluralism in Economics Conference “The Purpose of the Economy” in summer 2019
   at the University College Maastricht in the Netherlands!
+
+
+  # Register Now!
+
+
+  <script
+  src="https://cdn.weemss.com/compiled/js/integration-embed.js?v1.6"></script><iframe
+  src="https://event.gg/12191/form" id="weemss_integration_12191"
+  frameBorder="0" width="100%" height="450" scrolling="no"></iframe>
 tracks:
   description: 'Participants will be able to follow one of the below tracks. '
   heading: Tracks
