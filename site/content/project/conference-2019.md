@@ -14,7 +14,7 @@ description: >-
 intro:
   button: Register now!
   heading: Overview
-  imageUrl: /img/pine-conference-poster-final-page-001.jpg
+  imageUrl: /img/pine-conference-poster-final-scaled50-.jpg
   link: 'https://event.gg/12191/'
   text: >
     Can you imagine your economics professors or politicians questioning the
@@ -117,13 +117,13 @@ details: >-
 
   **You can register** [**here**](https://event.gg/12191/)**!**
 tracks:
-  description: 'Participants will be able to follow one of the below tracks. '
-  heading: Tracks
   buttonlink: 'https://event.gg/12191/'
   buttontext: Register now!
+  description: 'Participants will be able to follow one of the below tracks. '
+  heading: Tracks
   tiles:
     - heading: What could be the Role of the State in a Modern Economy?
-      image: /img/track1.jpg
+      image: /img/image_track1.jpg
       text: >-
         Thinking about the role of the state has until recently been an exercise
         in demonizing the state and politics in general. Welfare states have
@@ -141,7 +141,7 @@ tracks:
         distribution policy, industrial policy, the Job Guarantee and financial
         market regulation. The track facilitator is Dr. Dirk Ehnts.
     - heading: What Kind of Pluralism in Economics?
-      image: /img/soap-bubble-3594979_1920.jpg
+      image: /img/image_track2.jpg
       text: >-
         In this track we will explore the notion of pluralism in economics in
         some depth. We will look at different kinds of pluralism or dimensions
@@ -151,7 +151,7 @@ tracks:
         economics as a scientific discipline and decision-making in policy
         contexts. The track facilitator will be Dr. Melissa Vergara Fernández.
     - heading: 'Freedom, Efficiency and Justice in the Market '
-      image: /img/track-3.jpg
+      image: /img/image_track3.jpg
       text: >-
         Freedom, Efficiency and Justice are three appealing values we might want
         our economic system to realise. However, it is not clear what it means
@@ -160,7 +160,7 @@ tracks:
         and explore what trade-offs there are between them, as well as how they
         might be reconciled. The track facilitator will be Prof. Teun Dekker.
     - heading: The Purpose of the Economy - Growth?
-      image: /img/track-4.jpg
+      image: /img/image_track4.jpg
       text: >-
         In this track we will focus on the role of economic growth and its
         entanglements with the purpose(s) of the economy. We trace how economic
@@ -177,7 +177,7 @@ tracks:
         move away from environmentally harmful consumer welfare, might look
         like. The track facilitator will be Birte Strunck
     - heading: Happiness
-      image: /img/track-5.jpg
+      image: /img/image_track5.jpg
       text: tba. The track facilitator will be Dr. Martijn Burger
 experts:
   description: >-
@@ -304,3 +304,4 @@ schedule:
     **You can register** [**here**](https://event.gg/12191/)**!**
   heading: Preliminary Program Outline
 ---
+
