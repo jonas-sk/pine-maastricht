@@ -25,8 +25,21 @@ if (process.env.DEBUG) {
   defaultArgs.unshift("--debug")
 }
 
-gulp.task("hugo", (cb) => buildSite(cb));
-gulp.task("hugo-preview", (cb) => buildSite(cb, ["--buildDrafts", "--buildFuture"]));
+gulp.task("hugo", (cb) => {
+  let baseUrl = process.env.NODE_ENV === 'production' ? process.env.URL : process.env.DEPLOY_PRIME_URL;
+  let args = baseUrl ? ['-b', baseUrl] : [];
+
+  buildSite(cb, args);
+});
+gulp.task("hugo-preview", (cb) => {
+  let args = ['--buildDrafts', '--buildFuture'];
+  if (process.env.DEPLOY_PRIME_URL) {
+    args.push('-b')
+    args.push(process.env.DEPLOY_PRIME_URL)
+  }
+
+  buildSite(cb, args)
+});
 gulp.task("build", ["css", "js", "hugo"]);
 gulp.task("build-preview", ["css", "js", "hugo-preview"]);
 
