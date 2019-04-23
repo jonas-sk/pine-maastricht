@@ -12,7 +12,7 @@ description: >-
   The Purpose of the Economy - A Pluralism In Economics Conference taking place
   14 June - 15 June
 intro:
-  button: Register Now!
+  button: Register now!
   heading: Overview
   imageUrl: /img/pine-conference-poster-final-page-001.jpg
   link: 'https://event.gg/12191/'
@@ -117,6 +117,8 @@ details: >-
 
   **You can register** [**here**](https://event.gg/12191/)**!**
 tracks:
+  buttonLink: 'https://event.gg/12191/'
+  buttonText: Register now!
   description: 'Participants will be able to follow one of the below tracks. '
   heading: Tracks
   tiles:
