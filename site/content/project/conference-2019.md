@@ -15,7 +15,7 @@ intro:
   button: Register Now!
   heading: Overview
   imageUrl: /img/pine-conference-poster-final-page-001.jpg
-  link: '#'
+  link: 'https://event.gg/12191/'
   text: >
     Can you imagine your economics professors or politicians questioning the
     value of economic growth? Reconsider the dominant theories of banking?
@@ -113,6 +113,9 @@ details: >-
   neoclassical theory. Do you want to be part of this endeavour? Then join the
   Pluralism in Economics Conference “The Purpose of the Economy” in summer 2019
   at the University College Maastricht in the Netherlands!
+
+
+  **You can register** [**here**](https://event.gg/12191/)**!**
 tracks:
   description: 'Participants will be able to follow one of the below tracks. '
   heading: Tracks
@@ -176,7 +179,7 @@ tracks:
       text: tba. The track facilitator will be Dr. Martijn Burger
 experts:
   description: >-
-    We are happy to feature Dr. Dirk Ehnts, Melissa Vergara Fernández, Prof.
+    We are happy to feature Dr. Dirk Ehnts, Dr. Melissa Vergara Fernández, Prof.
     Teun Dekker, Birte Strunck, and Dr. Martijn Burger as track facilitators and
     are fortunate to have Patrick Schreiner, Dr. Dirk Ehnts and Prof. Teun
     Dekker as speakers.
@@ -292,6 +295,11 @@ schedule:
 
     Synthesis Panel - Prof. Dr. Teun Dekker, Dr. Dirk Ehnts, Dr. Melissa
     Fenández, and more (tba)
+
+
+
+
+    **You can register** [**here**](https://event.gg/12191/)**!**
   heading: Preliminary Program Outline
 ---
 
