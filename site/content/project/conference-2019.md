@@ -178,7 +178,14 @@ tracks:
         like. The track facilitator will be Birte Strunck
     - heading: Happiness
       image: /img/track-5.jpg
-      text: tba. The track facilitator will be Dr. Martijn Burger
+      text: >-
+        Which role does the happiness of citizens play in conceptualizing the
+        purpose of the economy? In how far does the current economic system
+        contribute to happiness? How could it be measured adequately? And, most
+        importantly, how could we set up an economy that maximizes aggregated
+        happiness? These and more questions will be elaborated during the
+        interactive track sessions. The track facilitator will be announced
+        soon.
 experts:
   description: >-
     We are happy to feature Dr. Dirk Ehnts, Dr. Melissa Vergara Fernández, Prof.
@@ -302,3 +309,4 @@ schedule:
     **You can register** [**here**](https://event.gg/12191/)**!**
   heading: Preliminary Program Outline
 ---
+
