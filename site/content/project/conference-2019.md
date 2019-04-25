@@ -184,8 +184,8 @@ tracks:
         contribute to happiness? How could it be measured adequately? And, most
         importantly, how could we set up an economy that maximizes aggregated
         happiness? These and more questions will be elaborated during the
-        interactive track sessions. The track facilitator will be announced
-        soon.
+        interactive track sessions. The track will be hosted by Dr. Martijn
+        Burger.
 experts:
   description: >-
     We are happy to feature Dr. Dirk Ehnts, Dr. Melissa Vergara Fernández, Prof.
