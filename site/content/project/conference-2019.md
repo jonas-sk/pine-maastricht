@@ -178,14 +178,7 @@ tracks:
         like. The track facilitator will be Birte Strunck
     - heading: Happiness
       image: /img/track-5.jpg
-      text: >-
-        Which role does the happiness of citizens play in conceptualizing the
-        purpose of the economy? In how far does the current economic system
-        contribute to happiness? How could it be measured adequately? And, most
-        importantly, how could we set up an economy that maximizes aggregated
-        happiness? These and more questions will be elaborated during the
-        interactive track sessions. The track will be hosted by Dr. Martijn
-        Burger.
+      text: "Money does not buy happiness, as the saying goes, although many people do not agree. Most people want to own a big house, luxury sports car and lottery. In this track, I will discuss what we know from happiness economics about the relationship between economic growth, income and happiness. Does our wealth explain why the Netherlands is one of the happiest countries in the world? Are rich people happier than poor people? Does economic growth boost happiness and under which conditions? \n\nThe track (2x 1,5 hours) is organized as follows:\n1.\tIntroduction to quality of life and happiness economics\n2.\tMeasurement of happiness\n3.\tCorrelates of happiness\n4.\tEconomic growth, income and happiness\n5.\tConsumption and happiness"
 experts:
   description: >-
     We are happy to feature Dr. Dirk Ehnts, Dr. Melissa Vergara Fernández, Prof.
@@ -238,15 +231,20 @@ experts:
     - heading: Dr. Martijn Burger
       imageUrl: /img/martijn-burger-sq.png
       text: >-
-        Dr. Martijn Burger is Academic Director of the Erasmus Happiness
-        Economics Research Organization in Rotterdam. Most of his current
-        research focuses on happiness economics and urban and regional
-        economics, including geography of happiness, location decisions of
-        multinational corporations, and institutional and social conditions for
-        economic development. In addition, he is associate director of the
-        Globalization and World Cities Network (GaWC) Research Network and
-        associate editor of the Journal of Economic and Social Geography and
-        International Journal of Community Wellbeing.
+        Martijn Burger is Academic Director at the Erasmus Happiness Economics
+        Research Organisation (EHERO) and Associate Professor of Industrial and
+        Regional Economics in the Department of Applied Economics at the Erasmus
+        University Rotterdam. He obtained his Ph.D. in Economics (cum laude)
+        from the Erasmus University Rotterdam. Most of his current research
+        focuses on happiness economics and urban and regional economics,
+        including geography of happiness, location decisions of multinational
+        corporations, and institutional and social conditions for economic
+        development. In addition, he is associate director of the Globalization
+        and World Cities Network (GaWC) Research Network, associate editor of
+        the Journal of Economic and Social Geography and International Journal
+        of Community Wellbeing, and member of the board of the Dutch Regional
+        Science Association and International Society for Quality of Life
+        Studies.
     - heading: Patrick Schreiner
       imageUrl: /img/patrick-schreiner-sq.jpg
       text: >-
