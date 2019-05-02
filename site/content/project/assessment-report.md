@@ -7,4 +7,4 @@ description: Assessing the economics education at UCM
 ---
 After months of hard work we are proud to publish our report on the state of economics education at UCM – 12/2014.
 
-Please download the report 2014 here: [PINE UCM Assessment report](img/pine-assessment-report.pdf)
+Please download the report 2014 here: [PINE UCM Assessment report](/img/pine-assessment-report.pdf)
