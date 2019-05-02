@@ -96,7 +96,7 @@
 		border-color: var(--primary);
     padding: var(--spacing-medium);
 		padding-left: calc( var(--spacing-small) + var(--spacing-medium));
-    font-size: 1rem;;
+    font-size: 1rem;
     margin-bottom: var(--spacing-medium);
     & p {
       margin: 0;
