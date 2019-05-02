@@ -10,7 +10,7 @@ image: /img/sbe-1.jpg
 ---
 # An Open Letter to the Dean of SBE and all Economics Professors at Maastricht University (UM)
 
-[PDF Version: PINE Open Letter to UM](img/pine-open-letter-to-um.pdf)
+[PDF Version: PINE Open Letter to UM](/img/pine-open-letter-to-um.pdf)
 
 _RE: Evidence suggests that UM’s teaching on how banks work is flawed – and why this matters a lot!_
 

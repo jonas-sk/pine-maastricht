@@ -7,4 +7,4 @@ description: >-
   A draft course outline for a pluralist economics course called "Economics and
   Society"
 ---
-During the past year, we have worked hard to provide a first draft of a pluralistic economics course. We are now proud to present the course outline of "Economics and Society", which can be downloaded [here](img/pine-economicssociety-draftoutline.pdf).
+During the past year, we have worked hard to provide a first draft of a pluralistic economics course. We are now proud to present the course outline of "Economics and Society", which can be downloaded [here](/img/pine-economicssociety-draftoutline.pdf).
