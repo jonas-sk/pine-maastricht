@@ -262,7 +262,7 @@ schedule:
     **19:00 - 19:30** Kick-off by PINE Team and Prof. Dr. Teun Dekker
 
 
-    **19:30 - 20:30** Keynote Talk by Patrick Schreiner "How does the Neoliberal
+    **19:30 - 20:30** Lecture by Patrick Schreiner "How does the Neoliberal
     Economy affect my Life?"
 
 
@@ -272,11 +272,12 @@ schedule:
     ## Saturday
 
 
-    **09:30 – 10:00** Keynote Talk by Prof. Dr. Teun Dekker "Philosophical
+    **09:30 – 10:00** Lecture by Prof. Dr. Teun Dekker "Philosophical
     Consideration: What do we do Economics for?"
 
 
-    **10:00 – 11:00** The Purpose and Function of Money Lecture Dr. Dirk Ehnts
+    **10:00 – 11:00** Lecture by Dr. Dirk Ehnts "The Purpose and Function of
+    Money"
 
 
     **11:00 - 11:30**  Coffee & Tea
