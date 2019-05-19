@@ -259,6 +259,9 @@ schedule:
     ## Friday
 
 
+    **18:00 - 19:00** Walk-In / Registrations
+
+
     **19:00 - 19:30** Kick-off by PINE Team and Prof. Dr. Teun Dekker
 
 
@@ -272,11 +275,14 @@ schedule:
     ## Saturday
 
 
-    **09:30 – 10:00** Lecture by Prof. Dr. Teun Dekker "Philosophical
+    **08:45 - 09-30** Walk-In / Registrations
+
+
+    **09:30 - 10:00** Lecture by Prof. Dr. Teun Dekker "Philosophical
     Consideration: What do we do Economics for?"
 
 
-    **10:00 – 11:00** Lecture by Dr. Dirk Ehnts "The Purpose and Function of
+    **10:00 - 11:00** Lecture by Dr. Dirk Ehnts "The Purpose and Function of
     Money"
 
 
@@ -289,19 +295,19 @@ schedule:
     **13:00 - 14:00** Lunch
 
 
-    **14:00 – 15:30**  Session in Tracks (2)
+    **14:00 - 15:30**  Session in Tracks (2)
 
 
     **15:30 - 16:00** Coffee & Cake
 
 
-    **16:00 – 17:00** Discussion rounds
+    **16:00 - 17:00** Discussion rounds
 
 
     **17:00 - 17:30** Coffee & Tea
 
 
-    **17:30 – 18:30** Final Panel - Prof. Dr. Teun Dekker, Dr. Dirk Ehnts, Dr.
+    **17:30 - 18:30** Final Panel - Prof. Dr. Teun Dekker, Dr. Dirk Ehnts, Dr.
     Melissa Fenández, and more (tba)
 
 
