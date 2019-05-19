@@ -14,7 +14,7 @@ _Capitalism_ – that is an economic system where individuals can own and use ca
 
 Wealth, rights, resources, agency – these ‘goods’ among others are distributed disturbingly unequally to regions, countries, ethnic groups, and individuals around the globe. Oxfam has shown that in 2017, eight men (!) own the same wealth as the poorest half of humanity which consists of 3.6 billion other people.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Ow2U191ksa8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< youtube Ow2U191ksa8 >}}
 
 How is this related to a capitalist economic system? Is such inequality inherent to capitalism? If yes, why has no revolution taken place so far? Why do we accept such circumstances? What can we change, and how?
 
