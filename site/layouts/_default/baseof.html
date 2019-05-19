@@ -2,8 +2,14 @@
 <html lang="en">
   {{ partial "head" . }}
   <body class="sans-serif">
+    {{ if (and .Site.Params.googleTagManager (not .Site.IsServer)) }}
+      <!-- Google Tag Manager (noscript) -->
+      <noscript><iframe src="https://www.googletagmanager.com/ns.html?id={{ .Site.Params.googleTagManager }}"
+      height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+      <!-- End Google Tag Manager (noscript) -->
+    {{ end }}
     {{ partial "nav" . }}
-    {{ block "main" . }}{{ end }} 
-    {{ partial "footer" . }} 
+    {{ block "main" . }}{{ end }}
+    {{ partial "footer" . }}
   </body>
 </html>
