@@ -259,7 +259,7 @@ schedule:
     ## Friday
 
 
-    **18:00 - 19:00** Walk-In / Registrations
+    **18:00 - 19:00** Walk-In
 
 
     **19:00 - 19:30** Kick-off by PINE Team and Prof. Dr. Teun Dekker
@@ -275,10 +275,10 @@ schedule:
     ## Saturday
 
 
-    **08:45 - 09-30** Walk-In / Registrations
+    **08:45 - 09:15** Walk-In / Registrations
 
 
-    **09:30 - 10:00** Lecture by Prof. Dr. Teun Dekker "Philosophical
+    **09:15 - 10:00** Lecture by Prof. Dr. Teun Dekker "Philosophical
     Consideration: What do we do Economics for?"
 
 
