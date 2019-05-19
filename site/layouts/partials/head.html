@@ -15,7 +15,7 @@
 		{{ template "_internal/google_analytics.html" . }}
 
 		<!-- Google Tag Manager -->
-		{{ if .Site.Params.googleTagManager }}
+		{{ if (isset .Site.Params.googleTagManager) }}
 			<script>
 				dataLayer= window.dataLayer = window.dataLayer || [];
 				dataLayer.push({
