@@ -26,6 +26,9 @@ input, textarea {
   &:focus {
     background-color: var(--white);
   }
+  &:valid {
+    background-color: var(--highlight);
+  }
   &:focus + label {
     opacity: 1;
     pointer-events: auto;
