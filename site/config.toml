@@ -1,12 +1,12 @@
 baseurl = "/"
 languageCode = "en-us"
 googleAnalytics = "UA-138676439-1"
-googleTagManager = "GTM-5S6WBSP"
 
 [params]
   description = "Pluralism in Economics is a student-driven initiative at University College Maastricht that wants to foster debate about pluralist economics and improve the economics curriculum in order to include a plurality of perspectives"
   images = ["img/pine-team-3-s.jpg"]
   title = "PINE Maastricht"
+  googleTagManager = "GTM-5S6WBSP"
 
 [permalinks]
   project = "/:slug/"
