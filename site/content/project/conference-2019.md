@@ -182,7 +182,7 @@ tracks:
 experts:
   description: >-
     We are happy to feature Dr. Dirk Ehnts, Dr. Melissa Vergara Fernández, Prof.
-    Teun Dekker, Birte Strunck, and Dr. Martijn Burger as track facilitators and
+    Teun Dekker, Birte Strunk, and Dr. Martijn Burger as track facilitators and
     are fortunate to have Patrick Schreiner, Dr. Dirk Ehnts and Prof. Teun
     Dekker as speakers.
   expert_list:
@@ -215,7 +215,7 @@ experts:
         intersection of the Social Sciences and the Humanities, including
         History of Political Thought and Distributive Justice in Contemporary
         Political Philosophy.
-    - heading: Birte Strunck
+    - heading: Birte Strunk
       imageUrl: /img/birte-strunck-sq.jpg
       text: >-
         Birte Strunk studied International Relations, Political Philosophy and
