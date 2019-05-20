@@ -14,7 +14,7 @@ This new website was developed for the [PINE Conference 2019](https://pine-maast
 * It is much more visual and has a cleaner design.
 * It is responsive and works well on mobile devices. 
 
-As part of our outreach efforts for the conference, we also now have an Instagram account. You can follow us under [@pinemaastricht](https://www.instagram.com/pinemaastricht/)
+As part of our outreach efforts for the conference, we also now have an Instagram account. You can follow us under [@pinemaastricht](https://www.instagram.com/pinemaastricht/)! 
 
 {{< instagram BxHsSZKA6jM >}}
 
