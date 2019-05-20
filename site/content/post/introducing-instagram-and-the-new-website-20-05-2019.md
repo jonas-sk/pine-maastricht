@@ -20,3 +20,5 @@ This new website was developed for the [PINE Conference 2019](https://pine-maast
 As part of our outreach efforts for the conference, we also now have an Instagram account. You can follow us under [@pinemaastricht](https://www.instagram.com/pinemaastricht/)
 
 {{< instagram BxHsSZKA6jM >}}
+
+Introducing the new website and Instagram account, we hope to reach many more students and activists. If you have any questions, feel free to [reach out](https://pine-maastricht.nl/contact/) to us! You can alos sign up to our conference [here](https://event.gg/12191/)!
