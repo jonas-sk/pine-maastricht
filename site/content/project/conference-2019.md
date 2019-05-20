@@ -175,14 +175,14 @@ tracks:
         look at consequences of rejecting economic growth as a measure of
         societal welfare, and investigate how different models of welfare, which
         move away from environmentally harmful consumer welfare, might look
-        like. The track facilitator will be Birte Strunck.
+        like. The track facilitator will be Birte Strunk.
     - heading: Happiness
       image: /img/track-5.jpg
       text: "Money does not buy happiness, as the saying goes, although many people do not agree. Most people want to own a big house, luxury sports car and lottery. In this track, I will discuss what we know from happiness economics about the relationship between economic growth, income and happiness. Does our wealth explain why the Netherlands is one of the happiest countries in the world? Are rich people happier than poor people? Does economic growth boost happiness and under which conditions? \n\nThe track (2x 1,5 hours) is organized as follows:\n1.\tIntroduction to quality of life and happiness economics\n2.\tMeasurement of happiness\n3.\tCorrelates of happiness\n4.\tEconomic growth, income and happiness\n5.\tConsumption and happiness.\n\nThe track will be hosted by Dr. Martijn Burger."
 experts:
   description: >-
     We are happy to feature Dr. Dirk Ehnts, Dr. Melissa Vergara Fernández, Prof.
-    Teun Dekker, Birte Strunck, and Dr. Martijn Burger as track facilitators and
+    Teun Dekker, Birte Strunk, and Dr. Martijn Burger as track facilitators and
     are fortunate to have Patrick Schreiner, Dr. Dirk Ehnts and Prof. Teun
     Dekker as speakers.
   expert_list:
@@ -215,7 +215,7 @@ experts:
         intersection of the Social Sciences and the Humanities, including
         History of Political Thought and Distributive Justice in Contemporary
         Political Philosophy.
-    - heading: Birte Strunck
+    - heading: Birte Strunk
       imageUrl: /img/birte-strunck-sq.jpg
       text: >-
         Birte Strunk studied International Relations, Political Philosophy and
