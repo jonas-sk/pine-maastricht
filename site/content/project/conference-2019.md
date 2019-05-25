@@ -122,24 +122,6 @@ tracks:
   description: 'Participants will be able to follow one of the below tracks. '
   heading: Tracks
   tiles:
-    - heading: What could be the Role of the State in a Modern Economy?
-      image: /img/track-1.jpg
-      text: >-
-        Thinking about the role of the state has until recently been an exercise
-        in demonizing the state and politics in general. Welfare states have
-        been under attack, liberties of individuals were highlighted and led to
-        identity politics, lobbies and think tanks use their (intellectual)
-        power to influence and shift public debate as well as public opinion.
-        The corporate world is full of scandals, both in the real world – think
-        about diesel engines – or in the financial world, where national
-        governments were targeted by criminals that took billions from them.
-        Global warming is not addressed by national government in any satisfying
-        way, inequality of incomes and wealth is at maximum levels – it seems
-        that the role of the State must be reinvented if current issues of today
-        must be addressed effectively and without much delay. We will discuss
-        what the State can do in policy fields like the Green New Deal,
-        distribution policy, industrial policy, the Job Guarantee and financial
-        market regulation. The track facilitator is Dr. Dirk Ehnts.
     - heading: What Kind of Pluralism in Economics?
       image: /img/track-2.jpg
       text: >-
@@ -159,6 +141,24 @@ tracks:
         track we will consider how we might operationalise these three values
         and explore what trade-offs there are between them, as well as how they
         might be reconciled. The track facilitator will be Prof. Teun Dekker.
+    - heading: What could be the Role of the State in a Modern Economy?
+      image: /img/track-1.jpg
+      text: >-
+        Thinking about the role of the state has until recently been an exercise
+        in demonizing the state and politics in general. Welfare states have
+        been under attack, liberties of individuals were highlighted and led to
+        identity politics, lobbies and think tanks use their (intellectual)
+        power to influence and shift public debate as well as public opinion.
+        The corporate world is full of scandals, both in the real world – think
+        about diesel engines – or in the financial world, where national
+        governments were targeted by criminals that took billions from them.
+        Global warming is not addressed by national government in any satisfying
+        way, inequality of incomes and wealth is at maximum levels – it seems
+        that the role of the State must be reinvented if current issues of today
+        must be addressed effectively and without much delay. We will discuss
+        what the State can do in policy fields like the Green New Deal,
+        distribution policy, industrial policy, the Job Guarantee and financial
+        market regulation. The track facilitator is Dr. Dirk Ehnts.
     - heading: The Purpose of the Economy - Growth?
       image: /img/track-4.jpg
       text: >-
@@ -186,14 +186,6 @@ experts:
     are fortunate to have Patrick Schreiner, Dr. Dirk Ehnts and Prof. Teun
     Dekker as speakers.
   expert_list:
-    - heading: Dr. Dirk Ehnts
-      imageUrl: /img/dirk-ehnts-sq.jpeg
-      text: >-
-        Dr. Dirk Ehnts is an economist, based in Berlin, married with two
-        children. Speaker of the board of Pufendorf-Gesellschaft e. V.,
-        organizer of the first European MMT conference and author of "Modern
-        Monetary Theory and European Macroeconomics" and the forthcoming
-        textbook "Money and Banking: New Foundations of Macroeconomics
     - heading: Dr. Melissa Vergara Fernández
       imageUrl: /img/melissa-vergara-fernandez-sq.jpg
       text: >-
@@ -215,6 +207,14 @@ experts:
         intersection of the Social Sciences and the Humanities, including
         History of Political Thought and Distributive Justice in Contemporary
         Political Philosophy.
+    - heading: Dr. Dirk Ehnts
+      imageUrl: /img/dirk-ehnts-sq.jpeg
+      text: >-
+        Dr. Dirk Ehnts is an economist, based in Berlin, married with two
+        children. Speaker of the board of Pufendorf-Gesellschaft e. V.,
+        organizer of the first European MMT conference and author of "Modern
+        Monetary Theory and European Macroeconomics" and the forthcoming
+        textbook "Money and Banking: New Foundations of Macroeconomics
     - heading: Birte Strunk
       imageUrl: /img/birte-strunck-sq.jpg
       text: >-
