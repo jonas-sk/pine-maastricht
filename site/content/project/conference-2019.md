@@ -35,19 +35,19 @@ intro:
     Nonetheless: Complex issues require complex solutions, and it is up to us to
     draft and realize them. Join us this June in beautiful Maastricht!
 details: >-
-  The "The Purpose of the Economy" PINE Conference tackles the question which
-  purpose the economy serves and which purpose an economy should ideally serve
-  in today’s societies. You can choose from five tracks:
+  The PINE Conference tackles the question of which purpose the economy serves
+  and which purpose an economy should ideally serve in today’s societies. You
+  can choose from five tracks:
 
 
-  1. "What Kind of Pluralism in Economics?" tackling the notion of pluralism in
-  economics in-depth, by Dr. Melissa Vergara Fernández
+  1. "What Kind of Pluralism in Economics?" tackling this notion in-depth, by
+  Dr. Melissa Vergara Fernández
 
   2. "Freedom, Efficiency and Justice in the Market" on these 3 values and how
   they might be realized, by Prof. Teun J. Dekker
 
   3. "What Could be the Role of the State in a Modern Economy?" on what the
-  state can, and should do, by Dr. Dirk Ehnts
+  state can, and should, do, by Dr. Dirk Ehnts
 
   4. "The Purpose of the Economy - Growth?" on the role of growth in our modern
   economy, by Birte Strunk
@@ -56,15 +56,14 @@ details: >-
   Martijn Burger
 
 
-  Register with the form below or learn more by scrolling down!
+  Register with the form below or learn more about the conference, the tracks,
+  the speakers or the schedule by scrolling down!
 
 
   <script
   src="https://cdn.weemss.com/compiled/js/integration-embed.js?v1.6"></script><iframe
   src="https://event.gg/12191/form" id="weemss_integration_12191"
   frameBorder="0" width="100%" height="450" scrolling="no"></iframe>
-
-
 
 
   # Details
