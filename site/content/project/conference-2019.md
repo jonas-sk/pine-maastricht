@@ -35,6 +35,38 @@ intro:
     Nonetheless: Complex issues require complex solutions, and it is up to us to
     draft and realize them. Join us this June in beautiful Maastricht!
 details: >-
+  The "The Purpose of the Economy" PINE Conference tackles the question which
+  purpose the economy serves and which purpose an economy should ideally serve
+  in today’s societies. You can choose from five tracks:
+
+
+  1. "What Kind of Pluralism in Economics?" tackling the notion of pluralism in
+  economics in-depth, by Dr. Melissa Vergara Fernández
+
+  2. "Freedom, Efficiency and Justice in the Market" on these 3 values and how
+  they might be realized, by Prof. Teun J. Dekker
+
+  3. "What Could be the Role of the State in a Modern Economy?" on what the
+  state can, and should do, by Dr. Dirk Ehnts
+
+  4. "The Purpose of the Economy - Growth?" on the role of growth in our modern
+  economy, by Birte Strunk
+
+  5. "Income, Economic Growth and Happiness" on happiness economics, by Dr.
+  Martijn Burger
+
+
+  Register with the form below or learn more by scrolling down!
+
+
+  <script
+  src="https://cdn.weemss.com/compiled/js/integration-embed.js?v1.6"></script><iframe
+  src="https://event.gg/12191/form" id="weemss_integration_12191"
+  frameBorder="0" width="100%" height="450" scrolling="no"></iframe>
+
+
+
+
   # Details
 
 
@@ -113,9 +145,6 @@ details: >-
   neoclassical theory. Do you want to be part of this endeavour? Then join the
   Pluralism in Economics Conference “The Purpose of the Economy” in summer 2019
   at the University College Maastricht in the Netherlands!
-
-
-  **You can register** [**here**](https://event.gg/12191/)**!**
 tracks:
   buttonlink: 'https://event.gg/12191/'
   buttontext: Register now!
@@ -141,7 +170,7 @@ tracks:
         track we will consider how we might operationalise these three values
         and explore what trade-offs there are between them, as well as how they
         might be reconciled. The track facilitator will be Prof. Teun Dekker.
-    - heading: What could be the Role of the State in a Modern Economy?
+    - heading: What Could be the Role of the State in a Modern Economy?
       image: /img/track-1.jpg
       text: >-
         Thinking about the role of the state has until recently been an exercise
