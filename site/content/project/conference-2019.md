@@ -306,8 +306,8 @@ schedule:
     **08:45 - 09:15** Walk-In / Registrations
 
 
-    **09:15 - 10:00** Lecture by Prof. Dr. Teun Dekker "Philosophical
-    Consideration: What do we do Economics for?"
+    **09:15 - 10:00** Lecture by Prof. Dr. Teun Dekker "The Values of the
+    Economy"
 
 
     **10:00 - 11:00** Lecture by Dr. Dirk Ehnts "The Purpose and Function of
