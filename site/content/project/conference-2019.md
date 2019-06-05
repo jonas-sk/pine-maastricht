@@ -59,6 +59,8 @@ details: >-
   Register with the form below or learn more about the conference, the tracks,
   the speakers or the schedule by scrolling down!
 
+  <div id="conference-2019-timer" class="flipdown center"></div>
+
 
   <script
   src="https://cdn.weemss.com/compiled/js/integration-embed.js?v1.6"></script><iframe
@@ -342,4 +344,3 @@ schedule:
     **You can register** [**here**](https://event.gg/12191/)**!**
   heading: Preliminary Program Outline
 ---
-

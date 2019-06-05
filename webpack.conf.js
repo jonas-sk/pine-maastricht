@@ -25,6 +25,8 @@ export default {
 
   context: path.join(__dirname, "src"),
   entry: {
+    main: ["./js/main"],
+    flipdown: ["./js/flipdown"],
     app: ["./js/app"],
     cms: ["./js/cms"]
   },
