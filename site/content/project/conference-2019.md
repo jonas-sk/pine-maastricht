@@ -57,7 +57,9 @@ details: >-
 
 
   Register with the form below or learn more about the conference, the tracks,
-  the speakers or the schedule by scrolling down!
+  the speakers or the schedule by scrolling down! Registrations are closing at
+  noon on 13 June (see countdown) with many tracks almost filled, so be quick!
+
 
   <div id="conference-2019-timer" class="flipdown center"></div>
 
@@ -344,3 +346,4 @@ schedule:
     **You can register** [**here**](https://event.gg/12191/)**!**
   heading: Preliminary Program Outline
 ---
+
