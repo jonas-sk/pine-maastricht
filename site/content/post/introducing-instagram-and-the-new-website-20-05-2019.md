@@ -6,7 +6,8 @@ description: >-
   Expanding our digital outreach, PINE now has a new website and an Instagram
   account
 image: /img/pine-instagram-screenshot.png
-
+images:
+  - /img/pine-instagram-screenshot.png
 ---
 This new website was developed for the [PINE Conference 2019](https://pine-maastricht.nl/conference-2019/) and we migrated most content from the [old website](https://pinemaastricht.wordpress.com/). This new website has a number of advantages for us:
 
