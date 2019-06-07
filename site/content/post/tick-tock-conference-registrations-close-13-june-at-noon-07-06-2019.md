@@ -7,7 +7,7 @@ description: >-
   June, at noon (12:00).
 image: ''
 images:
-  - undefined: /img/conference-2019-countdown.png
+  - /img/conference-2019-countdown.png
 ---
 With this blog post we are now publicizing when the Conference 2019 registrations will close. **The deadline to register is on Thursday, 13 June, at noon (12:00)!** You will still be able to buy tickets at the door but we can then not guarantee that there will still be spots left, especially in the specific track you want to attend. 
 
