@@ -22,7 +22,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Introduction", name: "description", widget: "text"}
       - {label: "Post Image", name: "image", widget: "image", required: false}
-      - {label: "Social Media Images", name: "images", widget: "list", required: false, fields: [{label: "Upload image", widget: "image"}]}
+      - {label: "Social Media Images", name: "images", widget: "list", required: false, fields: [{label: "Upload image (DOES NOT WORK PROPERLY YET. UPLOAD AND THEN NOTIFY JONAS)", widget: "image"}]}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "project"
     label: "Projects"
@@ -38,7 +38,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Last Updated", name: "lastmod", widget: "datetime"}
       - {label: "Introduction", name: "description", widget: "text"}
       - {label: "Post Image", name: "image", widget: "image", required: false}
-      - {label: "Social Media Images", name: "images", widget: "list", required: false, fields: [{label: "Upload image", widget: "image"}]}
+      - {label: "Social Media Images", name: "images", widget: "list", required: false, fields: [{label: "Upload image (DOES NOT WORK PROPERLY YET. UPLOAD AND THEN NOTIFY JONAS)", widget: "image"}]}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "pages"
     label: "Pages"
@@ -84,7 +84,7 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "Link Title", name: linktitle, widget: hidden, default: "About"}
           - {label: "Title", name: title, widget: string}
           - {label: "Post Image", name: image, widget: image}
-          - {label: "Social Media Images", name: "images", widget: "list", required: false, fields: [{label: "Upload image", widget: "image"}]}
+          - {label: "Social Media Images", name: "images", widget: "list", required: false, fields: [{label: "Upload image (DOES NOT WORK PROPERLY YET. UPLOAD AND THEN NOTIFY JONAS)", widget: "image"}]}
           - {label: "Description", name: description, widget: string}
           - label: "Introduction"
             name: intro
@@ -163,7 +163,7 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "Published", name: "publishdate", widget: "datetime"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime"}
           - {label: "Post Image", name: image, widget: image}
-          - {label: "Social Media Images", name: "images", widget: "list", required: false, fields: [{label: "Upload image", widget: "image"}]}
+          - {label: "Social Media Images", name: "images", widget: "list", required: false, fields: [{label: "Upload image (DOES NOT WORK PROPERLY YET. UPLOAD AND THEN NOTIFY JONAS)", widget: "image"}]}
           - {label: Description, name: description, widget: string}
           - label: Intro
             name: intro

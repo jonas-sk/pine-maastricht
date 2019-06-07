@@ -7,6 +7,8 @@ description: >-
   The Pluralism in Economics 2018 Conference on the topic of Capitalism and
   Inequality happened 23 June 2018 and was a resounding success!
 image: /img/pine-conference-2018.jpg
+images:
+  - /img/pine-conference-2018.jpg
 ---
 # Capitalism and Inequality
 

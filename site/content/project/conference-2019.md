@@ -8,6 +8,8 @@ title: Conference 2019
 publishdate: 2019-04-17T16:05:25.853Z
 lastmod: 2019-04-19T16:05:28.823Z
 image: /img/pine-team-1.jpg
+images:
+  - /img/pine-team-1.jpg
 description: >-
   The Purpose of the Economy - A Pluralism In Economics Conference taking place
   14 June - 15 June
@@ -346,4 +348,3 @@ schedule:
     **You can register** [**here**](https://event.gg/12191/)**!**
   heading: Preliminary Program Outline
 ---
-

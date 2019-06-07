@@ -7,6 +7,8 @@ description: >-
   An Open Letter to the Dean of SBE and all Economics Professors at Maastricht
   University (UM)
 image: /img/sbe-1.jpg
+images:
+  - /img/sbe-1.jpg
 ---
 # An Open Letter to the Dean of SBE and all Economics Professors at Maastricht University (UM)
 
