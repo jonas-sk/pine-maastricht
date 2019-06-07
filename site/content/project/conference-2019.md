@@ -63,7 +63,7 @@ details: >-
   noon on 13 June (see countdown) with many tracks almost filled, so be quick!
 
 
-  <div id="conference-2019-timer" class="flipdown center"></div>
+  <div id="conference-2019-timer" class="flipdown center mv3"></div>
 
 
   <script
