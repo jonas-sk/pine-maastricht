@@ -246,8 +246,8 @@ experts:
     - heading: Dr. Dirk Ehnts
       imageUrl: /img/dirk-ehnts-sq.jpeg
       text: >-
-        Dr. Dirk Ehnts is an economist, based in Berlin, married with two
-        children. Speaker of the board of Pufendorf-Gesellschaft e. V.,
+        Dr. Dirk Ehnts is an economist, based in Berlin, married, and father of
+        two children. Speaker of the board of Pufendorf-Gesellschaft e. V.,
         organizer of the first European MMT conference and author of "Modern
         Monetary Theory and European Macroeconomics" and the forthcoming
         textbook "Money and Banking: New Foundations of Macroeconomics
