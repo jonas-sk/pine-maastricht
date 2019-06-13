@@ -32,7 +32,4 @@ can choose from five tracks:
 5. "Income, Economic Growth and Happiness" on happiness economics, by Dr.
    Martijn Burger
 
-Register with the form below or learn more about the conference, the tracks,
-the speakers or the schedule on our [conference page](https://pine-maastricht.nl/conference-2019/)!
-
-<script src="https://cdn.weemss.com/compiled/js/integration-embed.js?v1.6"></script><iframe src="https://event.gg/12191/form" id="weemss_integration_12191" frameBorder="0" width="100%" height="450" scrolling="no"></iframe>
+Learn more about the conference, the tracks, the speakers or the schedule on our [conference page](https://pine-maastricht.nl/conference-2019/)! **Registrations are closed now, sorry.**
