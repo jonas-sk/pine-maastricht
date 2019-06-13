@@ -16,10 +16,10 @@ description: >-
   The Purpose of the Economy - A Pluralism In Economics Conference taking place
   14 June - 15 June
 intro:
-  button: Register now!
+  button: View the Schedule
   heading: Overview
   imageUrl: /img/pine-conference-poster-s.jpg
-  link: 'https://event.gg/12191/'
+  link: 'https://pine-maastricht.nl/conference-2019/#friday'
   text: >
     Can you imagine your economics professors or politicians questioning the
     value of economic growth? Reconsider the dominant theories of banking?
@@ -60,18 +60,8 @@ details: >-
   Martijn Burger
 
 
-  Register with the form below or learn more about the conference, the tracks,
-  the speakers or the schedule by scrolling down! Registrations are closing at
-  noon on 13 June (see countdown) with many tracks almost filled, so be quick!
-
-
-  <div id="conference-2019-timer" class="flipdown center mv3"></div>
-
-
-  <script
-  src="https://cdn.weemss.com/compiled/js/integration-embed.js?v1.6"></script><iframe
-  src="https://event.gg/12191/form" id="weemss_integration_12191"
-  frameBorder="0" width="100%" height="450" scrolling="no"></iframe>
+  Learn more about the conference, the tracks, the speakers or the schedule by
+  scrolling down! **Registrations are closed now, sorry.**
 
 
   # Details
@@ -153,8 +143,8 @@ details: >-
   Pluralism in Economics Conference “The Purpose of the Economy” in summer 2019
   at the University College Maastricht in the Netherlands!
 tracks:
-  buttonlink: 'https://event.gg/12191/'
-  buttontext: Register now!
+  buttonlink: ''
+  buttontext: ''
   description: 'Participants will be able to follow one of the below tracks. '
   heading: Tracks
   tiles:
@@ -345,9 +335,6 @@ schedule:
 
     **17:30 - 18:30** Final Panel - Prof. Dr. Teun Dekker, Dr. Dirk Ehnts, Dr.
     Melissa Fenández, and more (tba)
-
-
-    **You can register** [**here**](https://event.gg/12191/)**!**
   heading: Preliminary Program Outline
 ---
 
