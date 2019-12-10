@@ -10,7 +10,7 @@ contact_entries:
       University College Maastricht, Zwingelput 4, 6211 KH Maastricht,
       Netherlands
   - heading: Weekly Meeting
-    text: 'Wednesday, 6pm, Room C0.022 in UCM'
+    text: 'Thursday , 6:30pm, Room C0.022 in UCM'
 ---
 If you want to join the group, if you have any questions about upcoming events and lectures, schools of thought, what we’re working on or, if you have any suggestions for speakers you would like to see at our events or anything else please get in touch! PS: We love literature recommendations!
 
