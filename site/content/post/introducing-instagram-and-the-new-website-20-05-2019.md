@@ -4,7 +4,7 @@ title: Introducing Instagram and the New Website
 date: 2019-04-17T17:11:16.629Z
 description: >-
   Expanding our digital outreach, PINE now has a new website and an Instagram
-  account
+  account. Check out our latest posts!
 image: /img/pine-instagram-screenshot.png
 images:
   - /img/pine-instagram-screenshot.png
