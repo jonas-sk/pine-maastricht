@@ -1,6 +1,6 @@
 ---
 title: Pluralism in Economics
-subtitle: Working towards Pluralist Economics Education at Maastricht University
+subtitle: Working towards Pluralist Economics Education at Maastricht University.
 image: /img/ucm-1.jpg
 intro:
   heading: What is PINE?
