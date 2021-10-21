@@ -4,7 +4,7 @@ menu:
     weight: -70
 linktitle: About
 title: About PINE
-image: /img/pine-team-3.jpg
+image: /img/pine-team-1.jpg
 description: Who Are We and Why Care About Pluralism?
 intro:
   heading: Who we are
@@ -55,11 +55,9 @@ arguments:
         Critical thinking is vital to Liberal Arts and there is an inherent link
         between critical thinking and pluralism.
 team:
-  description: >-
-    Left: Laura, Cara, Jonas, Marla, Maxine, Max, Franca, Maurice, Hannah, Jonas
-    (missing: Paulina, Martin, Enrico)
-  heading: Our team
-  image: /img/pine-team-1.jpg
+  description: 'From left: Deniz, Hannah, Moritz, Sofia, Henning, Jan, Paolo'
+  heading: Our current team
+  image: /img/final-1-small.jpg
 details: >-
   # Mission
 
