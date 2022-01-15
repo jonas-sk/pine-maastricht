@@ -42,46 +42,50 @@ Answering these questions demands interdisciplinary investigation which the PINE
 
 In this spirit, the purpose of this year’s Pluralism in Economics Conference is to sketch new narratives and imaginaries for conceptualising an economic system that incorporates variables which are deemed to serve the purpose of an economy and which transcend the limited definition of economics in neoclassical theory. Do you want to be part of this endeavour? Then join the Pluralism in Economics Conference “The Purpose of the Economy” in summer 2019 at the University College Maastricht in the Netherlands!
 
-## Tracks
+# Speakers
 
-What kind of Pluralism in Economics? 
+Dr. Melissa Vergara Fernández
+
+Dr. Dirk Ehnts 
+
+Prof. Teun J. Dekker 
+
+Birte Strunk
+
+Dr. Martijn Brugger
+
+Patrick Schreiner
+
+# Tracks
+
+## What kind of Pluralism in Economics? 
 
 In this track we will explore the notion of pluralism in economics in some depth. We will look at different kinds of pluralism or dimensions in which it can be achieved. Then we will consider whether these kinds are all equally beneficial and, if so, to what extent. We will focus on the role of pluralism in economics with respect to two aspects: economics as a scientific discipline and decision-making in policy contexts. The track facilitator will be Dr. Melissa Vergara Fernández.
 
-Freedom, Efficiency and JUstice in the Market
+## Freedom, Efficiency and Justice in the Market
 
 Freedom, Efficiency and Justice are three appealing values we might want our economic system to realise. However, it is not clear what it means to do so, and if they can all be realised at the same time. In this track we will consider how we might operationalise these three values and explore what trade-offs there are between them, as well as how they might be reconciled. The track facilitator will be Prof. Teun Dekker.
 
-What Could be the Role of the State in a Modern Economy?
+## What Could be the Role of the State in a Modern Economy?
 
 Thinking about the role of the state has until recently been an exercise in demonizing the state and politics in general. Welfare states have been under attack, liberties of individuals were highlighted and led to identity politics, lobbies and think tanks use their (intellectual) power to influence and shift public debate as well as public opinion. The corporate world is full of scandals, both in the real world – think about diesel engines – or in the financial world, where national governments were targeted by criminals that took billions from them. Global warming is not addressed by national government in any satisfying way, inequality of incomes and wealth is at maximum levels – it seems that the role of the State must be reinvented if current issues of today must be addressed effectively and without much delay. We will discuss what the State can do in policy fields like the Green New Deal, distribution policy, industrial policy, the Job Guarantee and financial market regulation. The track facilitator is Dr. Dirk Ehnts.
 
-The Purpose of the Economy - Growth?
+## The Purpose of the Economy - Growth?
 
 In this track we will focus on the role of economic growth and its entanglements with the purpose(s) of the economy. We trace how economic growth is argued to fulfil certain proclaimed purposes of the economy (such as stability, employment, or well-being), and subsequently investigate why certain scholars – especially ecological economists – demand a move away from economic growth, either meaning a move away from GDP as a welfare indicator, or referring to a radical move away from capitalist modes of production and consumption. We discuss a range of different variants of degrowth and post-growth positions, as well as critiques thereof. In the second half of the workshop we take a closer look at consequences of rejecting economic growth as a measure of societal welfare, and investigate how different models of welfare, which move away from environmentally harmful consumer welfare, might look like. The track facilitator will be Birte Strunk.
 
-Income, Economic Growth and Happiness
+## Income, Economic Growth and Happiness
 
 Money does not buy happiness, as the saying goes, although many people do not agree. Most people want to own a big house, luxury sports car and lottery. In this track, I will discuss what we know from happiness economics about the relationship between economic growth, income and happiness. Does our wealth explain why the Netherlands is one of the happiest countries in the world? Are rich people happier than poor people? Does economic growth boost happiness and under which conditions? 
 
 The track is organized as follows:
 
-1.	Introduction to quality of life and happiness economics
-
-2.	Measurement of happiness
-
-3.	Correlates of happiness
-
-4.	Economic growth, income and happiness
-
-5.	Consumption and happiness.
+1. Introduction to quality of life and happiness economics
+2. Measurement of happiness
+3. Correlates of happiness
+4. Economic growth, income and happiness
+5. Consumption and happiness.
 
 The track will be hosted by Dr. Martijn Burger.
 
-
-
 ## 100 + vistors, what an amazing weekend!
-
-
-
-#
