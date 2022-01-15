@@ -67,4 +67,4 @@ In June 2021 the year cumulated in a highlight: Prof. Ajit Sinha, a leading hist
 
 Overall it was an exciting and enjoyable year for the young PINE Maastricht team.
 
-Many thanks to all speakers for taking time to visit us virtually!
+Many thanks to all speakers for taking time to visit us virtually in Maastricht!
