@@ -1,7 +1,7 @@
 ---
 isproject: 'true'
 title: Conference 2019
-publishdate: 2022-01-15T14:33:02.217Z
+publishdate: 2022-01-15T14:33:00.000Z
 lastmod: 2022-01-15T14:33:02.226Z
 description: >-
   The 2019 PINE Conference  'The Purpose of the Economy' taking place on the
