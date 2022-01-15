@@ -6,17 +6,9 @@ lastmod: 2022-01-15T15:32:09.553Z
 description: >-
   An overview of the events and projects PINE Maastricht organized during the
   (online) academic year 2020/21. 
-image: /img/chris-montgomery-smgtvepind4-unsplash.jpg
+image: /img/chris-montgomery-smgtvepind4-unsplash-min-min.jpg
 images: []
 ---
-
-
-
-
-
-
-
-
 Throughout the academic year 2020/2021 PINE organised a diverse selection of events including movie screenings, book clubs and guest lectures. While the online environment was sometimes challenging, it also gave us the opportunity to invite exciting international speakers and get in touch with other Rethinking Economics local groups. If you are interested in what we have done, scroll on and see some of the highlights!
 
 # Thomas Piketty:
@@ -49,7 +41,7 @@ During the spring semester we explored one of the current hot topics in economic
 
 As the lockdown went on, we decided to organize another reading circle. This time we read Stephanie Kelton's recently published book "The Deficit Myth". In this delightful read, participants got to know the ideas behind the Modern Monetary Theory. 
 
-![](/img/the-deficit-myth.jpg)
+![](/img/148575899_2666423583578223_9178589194880013732_n.jpg)
 
 ## Workshop by Maurice Höfgen
 
@@ -62,8 +54,6 @@ In April we welcomed Maurice Höfgen back to Maastricht! He is himself a former 
 In June 2021 the year cumulated in a highlight: Prof. Ajit Sinha, a leading historian of economic thought on Pierro Sraffa, joined us for an online lecture. We were honoured to welcome the amazing Prof. Sinha, professor of economics at the Thapar School of Liberal Arts and Sciences in Patiala, India. The audience was not only introduced to Sraffa's work and Prof. Sinha's interpretation of it but also to the greater history of economic ideas during that time. Afterwards, Prof. Sinha took plenty of time to respond to any remaining questions or comments. 
 
 ![](/img/sraffa-lecture.jpg)
-
-
 
 Overall it was an exciting and enjoyable year for the young PINE Maastricht team.
 
