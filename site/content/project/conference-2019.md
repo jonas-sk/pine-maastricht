@@ -14,7 +14,7 @@ images: []
 
 Can you imagine your economics professors or politicians questioning the value of economic growth? Reconsider the dominant theories of banking? Philosophize about the fundamental values we perpetuate with our economic activity? No? Well, that’s what we did at this year’s PINE Conference ‘The Purpose of the Economy’. We called into question the very basis of the economic conduct: What is its purpose, what do we do it for? Should we amend the purpose we are currently following?
 
-At our conference, the 100 attendees got the chance to come together with fellow students, friends and experts to tackle these and more issues from a pluralistic perspective. 
+At our conference, the around 100 attendees got the chance to come together with fellow students, friends and experts to tackle these and more issues from a pluralistic perspective. 
 
 ![](/img/pine-conference-poster-s.jpg)
 
@@ -58,7 +58,7 @@ Patrick Schreiner
 
 # Tracks
 
-## What kind of Pluralism in Economics? 
+## What kind of Pluralism in Economics?
 
 In this track we will explore the notion of pluralism in economics in some depth. We will look at different kinds of pluralism or dimensions in which it can be achieved. Then we will consider whether these kinds are all equally beneficial and, if so, to what extent. We will focus on the role of pluralism in economics with respect to two aspects: economics as a scientific discipline and decision-making in policy contexts. The track facilitator will be Dr. Melissa Vergara Fernández.
 
