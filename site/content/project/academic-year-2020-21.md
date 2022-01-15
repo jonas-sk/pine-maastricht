@@ -25,13 +25,13 @@ During the autumn of 2020 PINE explored the work of French economist Thomas Pike
 
 ## Movie Screening - "Capital in the 21st Century"
 
-On October 7th we hosted an online movie screening of the documentary "Capital in the 21st century". The movie is based on Piketty's ground-breaking bestseller with the same name - a recommendable read for any pluralist! While the book was already released in 2013, the movie premiered only few months before. After the joint movie session via Zoom, a lively discussion between the attendees refelcting on the content and its implications developed. 
+On October 7th we hosted an online movie screening of the documentary "Capital in the 21st century". The movie is based on Piketty's ground-breaking bestseller with the same name - a recommendable read for any pluralist! While the book was already released in 2013, the movie premiered only few months before. After the joint movie session via Zoom, a lively discussion between the attendees reflecting on the content and its implications developed. 
 
 ![](/img/capital-screening.jpg)
 
 ## Pieter Pekelharing on "Capital and Ideology"
 
-Four weeks later PINE welcomed Pieter Pekelharing from the University of Amsterdam to host a workshop on Piketty's new book "Capital and Ideology". At the start Pekelharing gave the participants a short recap of the book's content highlighting the major conclusions and. Afterwards guided and participated in a lively discussion with the attending students. The interactive format allowed all students to share their thoughts or ask questions. A successful finale of the "Piketty-Autumn". 
+Four weeks later PINE welcomed Pieter Pekelharing from the University of Amsterdam to host a workshop on Piketty's new book "Capital and Ideology". At the start Pekelharing gave the participants a short recap of the book's content highlighting the major conclusions and afterwards guided and participated in a lively discussion with the attending students. The interactive format allowed all students to share their thoughts or ask questions. A successful finale of the "Piketty autumn". 
 
 ![](/img/capital-and-ideology-workshop.jpg)
 
@@ -43,11 +43,11 @@ To lighten up long curfew evenings PINE organized book clubs on two pluralist ec
 
 # Modern Monetary Theory
 
-During the spring semester we explored one of the current hot topics in economics: Modern Monetary Theory (MMT). The "MMT-spring" consisted of a second book club on "The Deficit Myth" by Stephanie Kelton and a workshop by Maurice Höfgen. 
+During the spring semester we explored one of the current hot topics in economics: Modern Monetary Theory (MMT). The "MMT spring" consisted of a second book club on "The Deficit Myth" by Stephanie Kelton and a workshop by Maurice Höfgen. 
 
 ## Book Club II: The Deficit Myth
 
-As the lockdown went on, we decided to organize another reading circle. This time we read Stephanie Kelton's recently published book "The Deficit Myth". In this delightful read, participants got to know the ideas behind the MMT-theory. 
+As the lockdown went on, we decided to organize another reading circle. This time we read Stephanie Kelton's recently published book "The Deficit Myth". In this delightful read, participants got to know the ideas behind the Modern Monetary Theory. 
 
 ![](/img/the-deficit-myth.jpg)
 
@@ -59,7 +59,7 @@ In April we welcomed Maurice Höfgen back to Maastricht! He is himself a former 
 
 # Prof. Ajit Sinha on Sraffa's Economics
 
-In June 2021 the year cumulated in a highlight: Prof. Ajit Sinha, a leading historian of economic thought on Pierro Sraffa, joined us for an online lecture. We were honoured to welcome the charming Prof. Sinha, professor of economics at the Thapar School of Liberal Arts and Sciences in Patiala, India. The audience was not only introduced to Sraffa's work and Prof. Sinha's interpretation of it but also to the greater economic history of the time. Afterwards, Prof. Sinha took plenty of time to respond to any remaining questions or comments. 
+In June 2021 the year cumulated in a highlight: Prof. Ajit Sinha, a leading historian of economic thought on Pierro Sraffa, joined us for an online lecture. We were honoured to welcome the amazing Prof. Sinha, professor of economics at the Thapar School of Liberal Arts and Sciences in Patiala, India. The audience was not only introduced to Sraffa's work and Prof. Sinha's interpretation of it but also to the greater history of economic ideas during that time. Afterwards, Prof. Sinha took plenty of time to respond to any remaining questions or comments. 
 
 ![](/img/sraffa-lecture.jpg)
 
